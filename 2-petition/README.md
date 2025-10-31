@@ -1,7 +1,7 @@
 # How I Wrote my EB-1A Extraordinary Ability Green Card Petition which Was Approved on the First Attempt
 
 I spent 4 months full-time writing my petition
-starting on June 22, 2023, and filing it on November 30, 2023.
+starting on June 22, 2023 and filing it on November 30, 2023.
 The petition was approved shortly after on December 14
 without any additional requests.
 
@@ -29,12 +29,12 @@ It was vague and confusing and left me puzzled about how to actually write the t
 
 After a month like that, I stumbled on [a petition by Razvan Marinescu](https://github.com/razvanmarinescu/EB1A),
 a Romanian-British scientist who was approved for EB-1A and published his entire petition.
-It clicked, and then my full-time phase began.
+It clicked and then my full-time phase began.
 
 Some people are readily qualified for the program.
 They don't need to present many details
 because each one is stunning.
-Razvan was like that, and his petition was short,
+Razvan was like that and his petition was short,
 with 4 solid criteria (there are the total of 10 criteria in the program, one must meet any 3 of them), only 25 exhibits,
 and *just* over 150 pages long.
 
@@ -55,7 +55,7 @@ It's just what he or someone else before him came up with
 that helped the reviewing officer determine that one fits the requirements of the program.
 
 I will explain this structure below,
-what I started with, and how the sections influence one another
+what I started with and how the sections influence one another
 so the whole thing could have been written in a natural way.
 
 To the right are the length of each section in my case.
@@ -311,7 +311,7 @@ For your convenience,
 I extracted the text on each instance of each criterion
 and put exhibits it referenced just after it.
 In my complete petition,
-first went all the texts, and then all the exhibits.
+first went all the texts and then all the exhibits.
 
 Here I list the criteria in the order and with numbers
 as they go in [The Policy Manual](https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-2).
@@ -407,7 +407,7 @@ In 2021, this hackathon brand hosted 8 prestigious qualifying championships,
 each awarding its own honors and prizes,
 with top teams advancing to the final round at the year's end.
 
-I was on the team named '[1DevFull](https://1devfull.com/en)', and we
+I was on the team named '[1DevFull](https://1devfull.com/en)' and we
 [took the third place](https://rsv.ru/news/1/2581/)
 in one of the tracks of one of the qualifying championships.
 However, I opted out of competing in the final,
@@ -467,7 +467,7 @@ All that said, I had to be extremely careful
 to not make a false impression that I won the final,
 which could have easily been formed if I had omitted some data.
 I made sure the petition included the following quotes
-in the text, and not just hidden in the exhibits:
+in the text and not just hidden in the exhibits:
 
 - There were 165 teams.
 - 40 teams advanced to the final of the competition.
@@ -894,7 +894,7 @@ and an online tutorial ('[Tour of Beam](https://tour.beam.apache.org)').
 
 To establish the contribution,
 I included my signed [contributor agreement](https://www.apache.org/licenses/icla.pdf),
-the email of its acceptance, and [all my GitHub PRs](https://github.com/apache/beam/pulls?q=is%3Apr+author%3Aalexeyinkin+is%3Amerged).
+the email of its acceptance and [all my GitHub PRs](https://github.com/apache/beam/pulls?q=is%3Apr+author%3Aalexeyinkin+is%3Amerged).
 Then I attached the explanation of what GitHub and PRs were.
 
 I asked my reviewers to help me get a support letter from Apache
@@ -1057,7 +1057,7 @@ but couldn't get through the redirects.
 So I just sent my agent to walk in and negotiate it.
 They said to her that my email was being processed,
 and they would get back to me with the available occupations and prices.
-In a few days, they responded, and we agreed on the details.
+In a few days, they responded and we agreed on the details.
 I sent my agent again to pick it up.
 Interestingly, they didn't charge her,
 although they had a price tag on custom reports.
@@ -1305,7 +1305,7 @@ My LaTeX template makes it easy:
 While I couldn't arbitrarily cut information away from the images,
 a lot could be done by cropping a screenshot and by sizing the browser window.
 For instance, LinkedIn normally shows an irrelevant block with ads on the right.
-Sometimes I would crop it, and other times I would make the window more narrow
+Sometimes I would crop it and other times I would make the window more narrow
 so that the block would go away.
 
 ##### Taller Screenshots
@@ -1473,7 +1473,7 @@ That's why it's wise to give a self-explanatory title to an exhibit.
 When that was insufficient,
 I put some text before the exhibit
 describing how it's related to the petition,
-what claim it supports, and how it's related to other exhibits.
+what claim it supports and how it's related to other exhibits.
 
 This page shows both:
 
@@ -1495,7 +1495,7 @@ I highly recommend [iTrex translation agency](https://itrex.ru) for that.
 They can do tens of languages.
 Being Russian, they are especially good with it.
 I had problems with them translating from Kyrgyz,
-but then they replaced the translator, and it has been fine since.
+but then they replaced the translator and it has been fine since.
 
 I also had [Moovert](https://moovert.pro) translate some texts for me,
 but they were only able to translate from Russian to English.
@@ -1514,7 +1514,7 @@ However, here's what I made sure they adhered to:
 - The translation must be certified.
   We used the following text:
 > I (name) am competent to translate from Russian to English
-> and certify that the translation of this document is true, accurate, and complete to the best of my abilities.
+> and certify that the translation of this document is true, accurate and complete to the best of my abilities.
 >
 > (Signature)
 
@@ -1556,7 +1556,7 @@ This turned into:
 ![](media/exhibits/3_16_book-clay_en_public.png)
 
 The agency did a good job matching the text color,
-font, position, and slight rotation.
+font, position and slight rotation.
 
 On the other hand, Moovert kept an image intact
 and added a textual note under it.
@@ -1974,7 +1974,7 @@ Mine adds page numbers to both exhibit and section references.
 
 Razvan's petition builds to a non-interactive PDF.
 Mine has hyperlinks in exhibit references,
-section references, and the list of exhibits.
+section references and the list of exhibits.
 With many PDF viewers, you can navigate the links
 and go back with the Back button.
 It makes no difference when you print your petition,
@@ -1988,7 +1988,7 @@ an electronic document before that.
 Razvan's petition numbers the exhibits explicitly,
 and if you add exhibits in the middle you would have to re-number them.
 Mine uses textual labels in both definitions and references to exhibits.
-You can add exhibits in the middle, and all numbers will update automatically.
+You can add exhibits in the middle and all numbers will update automatically.
 
 ![](media/improvements-over-razvan/textual-definitions-of-exhibits.png)
 
@@ -2000,7 +2000,7 @@ You can add exhibits in the middle, and all numbers will update automatically.
 
 Razvan's petition is entirely in `main.tex`.
 Mine is split into separate files for each criterion instance,
-exhibit, and other section.
+exhibit and other section.
 
 ![](media/improvements-over-razvan/split-into-files.png)
 
@@ -2027,7 +2027,7 @@ The original CLI tool is here: https://www.latex-project.org/get/
 
 On Mac, I like using [TexShop](https://pages.uoregon.edu/koch/texshop/).
 
-## Filing, Approval, Interview, and Arrival in the US
+## Filing, Approval, Interview and Arrival in the US
 
 I described the entire process I went through
 in a separate article.
@@ -2068,7 +2068,7 @@ This article is a part of the series:
    I can answer any questions that do not require a lawyer's license,
    try to evaluate your profile for the EB-1A program,
    give you career advice that would strengthen your profile for the program,
-   proofread your petition, and more.
+   proofread your petition and more.
 
 Read them all.
 Follow me to keep in touch:

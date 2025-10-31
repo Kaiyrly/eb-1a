@@ -101,7 +101,7 @@ to that of a permanent resident.
 - [Dec 7, 2023](#day-7) - Received the email with the case number, the 15-day deadline started.
 - [Dec 14, 2023](#day-14) - Petition approved, received the approval email.
 - [Dec 15, 2023](#day-15) - Paper notice of approval issued.
-- [Dec 19, 2023](#day-19) - NVC received the case from USCIS, issued the Welcome Letter, and requested further documents.
+- [Dec 19, 2023](#day-19) - NVC received the case from USCIS, issued the Welcome Letter and requested further documents.
 - [Dec 28, 2023](#day-28) - Received scans of the paper notice of approval and NVC Welcome Letter from my mail agent.
 - [Jan 11, 2024](#step-7-civil-documents) - My US mail agent printed and mailed further civil documents to NVC.
 - [Jan 16, 2024](#day-47) - Civil documents delivered to the PO box.
@@ -164,12 +164,12 @@ and this proved to be fast.
 I also used their address for replies.
 
 They printed and sent my petition on Nov 30, 2023.
-I refer to this as *'Day 0'*, and days in this article are numbered from that date.
+I refer to this as *'Day 0'* and days in this article are numbered from that date.
 
 This is my printed petition with cheques on it.
 There had to be separate cheques for processing
 and for the priority service.
-Note that both fees have increased since, and the third one was added.
+Note that both fees have increased since and the third one was added.
 
 ![](media/0_cover.jpeg)
 
@@ -210,7 +210,7 @@ It likely means that on that day they opened the box.
 In some circumstances, this date is important legally.
 For instance, other immigration programs
 have a long waiting line even for approved petitions,
-sometimes over a decade, and this date determines
+sometimes over a decade and this date determines
 when the petitioner can move to the next step.
 Applicants born in some countries
 have a long waiting line even for EB-1.
@@ -372,7 +372,7 @@ and this is why cards from other countries don't work
 -- they just don't have that.
 
 In the case of Bank of America,
-I had to sign in, select an account, and click 'Account & routing numbers'.
+I had to sign in, select an account and click 'Account & routing numbers'.
 I used the account number and the routing number for *'Paper & Electronic'*:
 
 ![](media/29_boa-credentials.png)
@@ -448,7 +448,7 @@ It was straightforward except for a few points:
   Not many people know that address in advance.
   However, I had friends in Texas
   where I planned to stay for some time,
-  so I put their address, phone, and name
+  so I put their address, phone and name
   in *'Mailing and Permanent Address'*.
 
 - On the Training page, I answered *'Yes'*
@@ -768,7 +768,7 @@ After the successful interview, they could have delivered the passport:
 
 To get there, I followed the link on the consulate page.
 Note that they have since completely redesigned
-the old USTravelDocs, and these addresses no longer exist.
+the old USTravelDocs and these addresses no longer exist.
 You will have to find the new page
 to register the passport delivery yourself.
 
@@ -817,7 +817,7 @@ In addition to what's on the consulate website were:
   for the medical exam,
   but the clinic specifically said otherwise).
 - A printed page with my local address,
-  US address, phone, and email.
+  US address, phone and email.
 
 ## Day 286
 
@@ -884,7 +884,7 @@ and the clinic required them as well
 over the phone earlier.
 
 I showed them all my vaccination records,
-handwritten files from the 1980s, and 4 COVID-19 shots.
+handwritten files from the 1980s and 4 COVID-19 shots.
 They accepted all of them
 and only made me take a flu shot
 because it was the season
@@ -892,16 +892,16 @@ and renew my diphtheria shot from childhood.
 
 The examination by the doctor was about 10 minutes long.
 He measured my height (185 cm)
-and mass (59 kg, and he said "not much").
+and mass (59 kg and he said "not much").
 He tested my eyesight
 on a non-standard table without lighting.
 He measured my pressure, 77 / 110.
-He auscultated my heart, chest, and back.
+He auscultated my heart, chest and back.
 
 He asked me:
 - Whether I had any acute condition now.
 - Whether I had any chronic diseases.
-- Whether I smoked, drank, or used drugs.
+- Whether I smoked, drank or used drugs.
 - Whether I had any problems with organs (he named a few).
 - Whether I had any psychiatric problems.
 
@@ -918,7 +918,7 @@ That was about it.
 It may be longer for others,
 I just look perfectly healthy.
 
-The paper with my addresses, email, and phone
+The paper with my addresses, email and phone
 was not actually needed.
 Had I forgotten it
 I could just write it on a paper
@@ -931,7 +931,7 @@ and said they would send it all to the embassy.
 
 I got a call from the clinic.
 They said that the X-ray and all blood tests
-came back fine, and I was fit for the visa.
+came back fine and I was fit for the visa.
 
 ## Day 312
 
@@ -1070,7 +1070,7 @@ but forgot to scan it for my records.
 ### The Scene
 
 On October 23, I took only the bag, my phone,
-some cash, and debit cards with me.
+some cash and debit cards with me.
 I left everything else at the hotel.
 
 Many suggest coming well in advance.
@@ -1109,13 +1109,13 @@ with unit patches reading 'Local Task Force'.
 There was a lot of waiting
 before they collected our documents.
 The interview hall had navigation and all bulletins
-on boards in English, Georgian, and Russian.
+on boards in English, Georgian and Russian.
 
 There were 3 windows with local clerks
 collecting the documents.
 They called me.
 The clerk spoke Russian and was very welcoming.
-First, she got my fingerprints, and then the papers.
+First, she got my fingerprints and then the papers.
 
 ### The Papers
 
@@ -1123,7 +1123,7 @@ The clerk went through the list
 similar to the one they [emailed me](#day-286).
 When she saw that my police certificates were clean
 she did not ask for court records,
-so I proactively asked, and she took them.
+so I proactively asked and she took them.
 
 There is some uncertainty
 on whether the translations of the required documents
@@ -1135,7 +1135,7 @@ My embassy required it on the website
 and actually during the collection.
 
 The clerk didn't take my diplomas,
-supporting letters, or anything else.
+supporting letters or anything else.
 She said an officer could ask for them
 if they wanted to during the interview.
 Then she told me to wait
@@ -1231,12 +1231,12 @@ In a few minutes, he called me again. First, he took my fingerprints too.
 👨‍💼 Your visa is approved.
 
 That was it. Felt like ~5 minutes.
-Throughout the entire interview, there was no tension, catch, or anything unpleasant.
+Throughout the entire interview, there was no tension, catch or anything unpleasant.
 Just a talk of two enthusiastic people.
 
 He returned my birth certificate and my military record book
 and gave me a paper on how to get my passport back,
-how to pay the final green card fee, and how to travel:
+how to pay the final green card fee and how to travel:
 
 ![](media/328_approved_front.jpg)
 
@@ -1291,7 +1291,7 @@ if they lack some document from you or anticipate a long or indefinite check.
 Actually, this was the second-best thing that could happen to them at the interview.
 
 Windows 7 and 6 were holding tourist visa interviews.
-Window 7 read 'English', and in window 6 the officer was able to speak Georgian (and likely Russian, but I was not sure).
+Window 7 read 'English' and in window 6 the officer was able to speak Georgian (and likely Russian, but I was not sure).
 While I was waiting, I witnessed one interview in the window 7 and two interviews in the window 6.
 I could hear them all, both the officers and the applicants.
 All were approved and went easy.
@@ -1398,7 +1398,7 @@ open at the page with the visa:
 ![](media/334_visa.jpeg)
 
 **This marked the end of the US bureaucracy being the bottleneck in my immigration.**
-The rest was my travel schedule, and even the final fee could be paid later.
+The rest was my travel schedule and even the final fee could be paid later.
 
 With the data on the visa,
 I was able to pay the fee for issuing a green card.
@@ -1686,7 +1686,7 @@ This article is a part of the series:
    I can answer any questions that do not require a lawyer's license,
    try to evaluate your profile for the EB-1A program,
    give you career advice that would strengthen your profile for the program,
-   proofread your petition, and more.
+   proofread your petition and more.
 
 Read them all.
 Follow me to keep in touch:

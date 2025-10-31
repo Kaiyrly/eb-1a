@@ -11,3 +11,9 @@
 \newcommand\Continuing{%
     \CenterParentheses{continuing}
 }
+
+
+\usepackage[normalem]{ulem} % gives \uline
+\usepackage{etoolbox}
+\robustify\uline              % prevents fragile-arg recursion
+\newcommand{\HL}[1]{\uline{#1}}

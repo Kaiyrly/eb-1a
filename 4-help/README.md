@@ -17,7 +17,7 @@ I like to hear from those who want to come to this great country!
 I can answer any questions that do not require a lawyer's license,
 try to evaluate your profile for the EB-1A program,
 give you career advice that would strengthen your profile for the program,
-proofread your petition, and more.
+proofread your petition and more.
 
 Rate: **$65 / hour**
 

@@ -276,7 +276,7 @@ for applicants as they wait.
 At various tages, the government accepts fees in 4 different ways:
 
 - Petition review:
-  - Cheques, or
+  - Cheques or
   - Credit card authorization with G-1450 paper form.
 - DS-260 immigrant visa fee:
   - Automated Clearing House Debit.
@@ -355,7 +355,7 @@ It's like coding in [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 with only a minimal set building blocks.
 
 You should publish a catalog of trusted sources,
-whitelisted awards, and defined blocks that can be used
+whitelisted awards and defined blocks that can be used
 in a petition.
 Say, if one is a founder of a project
 with 10 thousand GitHub stars,
@@ -386,7 +386,7 @@ that are required to go through it.
 
 However, the check is only started after the interview.
 A friend of mine waited for over 9 months for his interview
-knowing that he would be delayed, and he was.
+knowing that he would be delayed and he was.
 
 You already got all the information for the security check,
 and the interview could barely give you anything new.
@@ -487,7 +487,7 @@ as it happened in October 2024
 when the old USTravelDocs.com was killed.
 Back then, all links to its specific pages
 spread all over other governmental websites,
-emails, and paper handouts died.
+emails and paper handouts died.
 
 I suggest hiring
 [Artemy Lebedev](https://www.artlebedev.com) to refactor all of that.
@@ -534,7 +534,7 @@ no more than 7% of immigrant visas can be given to people
 born in one country of birth.
 Most countries are below their quotas,
 that's why my immigration was not delayed by that.
-However, China, India, Mexico, and Philippines
+However, China, India, Mexico and Philippines
 [hit their quotas](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2025/visa-bulletin-for-november-2024.html).
 
 I have an Indian friend who is applying for EB-1A.
@@ -629,7 +629,7 @@ The steps would be the following:
    accessible by the Customs and Border Protection.
 2. The applicant can choose whether they want to:
    - Move right away to be vetted after arrival
-     (this is the default immediately available), or
+     (this is the default immediately available) or
    - Go through the old and safe process
      of vetting before their immigration.
      The upside is that they know
@@ -762,7 +762,7 @@ Is this really how you want your extraordinary ability immigrants?
 Each one of us is required to prove
 that the US will benefit from our immigration.
 There is a dedicated section on that in every petition.
-Instead, we are wasted, and that's disrespect.
+Instead, we are wasted and that's disrespect.
 
 Also, I was single and tried to avoid relationships
 after my petition was approved
@@ -820,7 +820,7 @@ This article is a part of the series:
    I can answer any questions that do not require a lawyer's license,
    try to evaluate your profile for the EB-1A program,
    give you career advice that would strengthen your profile for the program,
-   proofread your petition, and more.
+   proofread your petition and more.
 
 Read them all.
 Follow me to keep in touch:

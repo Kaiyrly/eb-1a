@@ -7,11 +7,11 @@ in 2024.
 
 This is the most complete and detailed free instruction on this program you will find online.
 It includes my complete petition with only a few private things blacked out,
-every form I filled out, and every piece of interaction with each of the United States bodies I went through.
-All that said, **I am not a lawyer, and none of this is legal advice**.
+every form I filled out and every piece of interaction with each of the United States bodies I went through.
+All that said, **I am not a lawyer and none of this is legal advice**.
 
-What makes this program stand out is that it doesn't require any job offers, relatives, or other invitations.
-It's also not a lottery, and every applicant who is found eligible gets a green card.
+What makes this program stand out is that it doesn't require any job offers, relatives or other invitations.
+It's also not a lottery and every applicant who is found eligible gets a green card.
 One just needs to write out the proof of their extraordinary ability against formally defined criteria
 and go through some paperwork and vetting.
 This gives the most freedom before and after immigration, that's why I have chosen it.
@@ -22,7 +22,7 @@ and many diligent people can qualify if they put effort.
 
 To name a few more advantages, you can take your spouse and unmarried children under 21 with you,
 and all of you become permanent residents of the United States immediately after crossing the border.
-All of you can work, study, or do almost anything else that citizens can except for voting, right away.
+All of you can work, study or do almost anything else that citizens can except for voting, right away.
 You don't need to report to anyone after that and can apply for citizenship in 5 years.
 
 There are four parts in my material on this.
@@ -36,7 +36,7 @@ and every piece of interaction with each of the United States bodies I went thro
 ## [2. The Petition](2-petition/README.md)
 
 My complete petition with only a few private things blacked out,
-the process of writing it, my strategy for each criterion, and all the reasoning. [Read my petition here](2-petition/README.md).
+the process of writing it, my strategy for each criterion and all the reasoning. [Read my petition here](2-petition/README.md).
 
 ## [3. Improvements to the Process I Suggest](3-improvements/README.md)
 
@@ -50,7 +50,7 @@ and gain millions from immigrants paying their taxes early.
 I can answer any questions that do not require a lawyer's license,
 try to evaluate your profile for the EB-1A program,
 give you career advice that would strengthen your profile for the program,
-proofread your petition, and more. [Read it here](4-help/README.md)
+proofread your petition and more. [Read it here](4-help/README.md)
 
 # Questions?
 
