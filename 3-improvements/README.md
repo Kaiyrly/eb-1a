@@ -647,7 +647,7 @@ The steps would be the following:
      converted to that of a permanent resident.
    - In the rare case of denial, this status is retroactively
      converted to a 'work visa' status
-     and expires soon after the deadline for appealing.
+     and expires soon after the deadline for requesting.
 
 In no way is this less secure than what we have now
 with the open border and unvetted people
