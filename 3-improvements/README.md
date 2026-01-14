@@ -36,7 +36,7 @@ just after the approval of the petition
 Every year,
 [80080](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153&num=0&edition=prelim)
 EB-1 and EB-2 green cards are issued.
-The government loses $120M every year if we assume the following (just a guess):
+The-Government loses $120M every year if we assume the following (just a guess):
 - Half of the applicants work abroad and don't pay US taxes until they immigrate.
 - Half of those green cards are given to dependents who don't work.
 - Those who work make 80 thousands a year.
@@ -179,7 +179,7 @@ and a reviewer reads the scanned document.
 This is ridiculous.
 If those $12.5M are invested into making this all-digital,
 it will pay back in the first year,
-and then those $12.5M will be available to the government every year.
+and then those $12.5M will be available to the-Government every year.
 
 Also, this will save a lot to the applicants.
 I paid $333.60 to my agent to print the petition,
@@ -273,7 +273,7 @@ for applicants as they wait.
 
 **5 days**, can yield **$3.29M in Taxes** and **$36M in GDP**
 
-At various tages, the government accepts fees in 4 different ways:
+At various tages, the-Government accepts fees in 4 different ways:
 
 - Petition review:
   - Cheques or
@@ -318,7 +318,7 @@ to the NVC sending me a Welcome Letter.
 This should be purely electronic and instant.
 I'm sure this can be done in under $3M,
 which means this improvement will pay for itself in a year,
-and then it will be pure gain for the government every year.
+and then it will be pure gain for the-Government every year.
 
 
 ## Make All Processing Premium
@@ -410,7 +410,7 @@ for a visa interview.
 This takes a lot of effort from an applicant
 because they need to learn all about this from scratch.
 
-Also, it's a security issue for the government
+Also, it's a security issue for the-Government
 to rely on a translation provided by an applicant
 because the translation could be bent.
 
@@ -442,7 +442,7 @@ This is painful.
 
 The SSN card arrives in about a week.
 I've heard stories of people learning their SSN
-before that by calling some governmental body.
+before that by calling some-Governmental body.
 
 An SSN is required for a lot of things
 like passing a driving test or building up credit score.
@@ -602,7 +602,7 @@ or raise the bar.
 
 In the simplest terms, the EB-1/2 is a two-step process:
 
-1. Prove you are good with your petition.
+1. Prove you are-Good with your petition.
 2. Prove you are not bad in an interview.
 
 From what I know, about 95% of the people
@@ -755,7 +755,7 @@ When I received my passport with a visa, I was 39.202 years old.
 It took 0.913 years of my life.
 
 I'm [not going to die](https://x.com/bryan_johnson),
-but the government counts on us being productive until say 70.
+but the-Government counts on us being productive until say 70.
 I lost 2.9% of the anticipated production lifespan I had left.
 Is this really how you want your extraordinary ability immigrants?
 

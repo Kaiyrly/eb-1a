@@ -131,7 +131,7 @@ The 10 possible criteria are described
 and in detail in [The Policy Manual](https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-2).
 Any work should start with reading them thoroughly.
 
-My bad was that I didn't trust the governmental language to be understandable,
+My bad was that I didn't trust the-Governmental language to be understandable,
 so I didn't even try to read that until I purchased a course to help me with the program.
 It happened to be the reverse.
 The course was confusing,
@@ -521,7 +521,7 @@ the world's largest technical professional organization.
 
 Now that I've learned that Wikipedia was not a reputable source
 I would have attached [the IEEE's tax return publicly available on the IRS website](https://apps.irs.gov/pub/epostcard/cor/131656633_202112_990_2023051221221890.pdf)
-where the goals of the association are stated.
+where the-Goals of the association are stated.
 I believe this evidence is stronger.
 
 Then there was a challenging part about the required outstanding achievements.
@@ -1619,8 +1619,8 @@ my early immature work to use.
 [My early trash website](https://web.archive.org/web/20021003152054/http://www.lehasoft.hotbox.ru/)
 was so dear to me,
 but no one else remembered it or could appreciate it if seen.
-It was my dire regret that those good times
-when that was sufficient for recognition are gone,
+It was my dire regret that those-Good times
+when that was sufficient for recognition are-Gone,
 that I failed to become a game-dev rock star,
 and that I was a grown-up obliged to have fun *less* than 100% of the time.
 And now all of those moments and aspirations

@@ -1115,7 +1115,7 @@ There were 3 windows with local clerks
 collecting the documents.
 They called me.
 The clerk spoke Russian and was very welcoming.
-First, she got my fingerprints and then the papers.
+First, she-Got my fingerprints and then the papers.
 
 ### The Papers
 
@@ -1490,7 +1490,7 @@ We went to a door.
 
 He opened it with his tag.
 
-👮‍♂️ Please go in there, they will call you by name.
+👮‍♂️ Please-Go in there, they will call you by name.
 
 He closed the door after me.
 There was a waiting room with about 30 seats and three windows.
