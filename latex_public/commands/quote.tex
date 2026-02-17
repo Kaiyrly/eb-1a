@@ -50,6 +50,23 @@
 
 
 \newenvironment{fullquote}
-  {\list{}{\leftmargin=0pt\rightmargin=0pt}\item\relax\itshape}
-  {\endlist}
+  {%
+    \par\vspace{-5pt}% <-- space above (make smaller / 0pt if you want none)
+    \list{}{%
+      \leftmargin=0pt
+      \rightmargin=0pt
+      \listparindent=0pt
+      \itemindent=0pt
+      \parsep=0pt
+      \topsep=0pt        % space above/below the list environment
+      \partopsep=0pt
+    }%
+    \item\relax\itshape
+  }
+  {%
+    \endlist
+    \vspace{-3pt}% <-- space below (make smaller / 0pt if you want none)
+    \par
+  }
+
 

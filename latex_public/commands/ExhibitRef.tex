@@ -1,3 +1,16 @@
 \newcommand\ExhibitRef[1]{%
     [Exhibit~\ref{ex:#1}, page~\pageref{ex:#1}]%
 }
+
+\newcommand\ExhibitList[1]{%
+    \def\exhibitlistfirst{}%
+    \forcsvlist{\ExhibitListItem}{#1}%
+}
+\newcommand\ExhibitListItem[1]{%
+    \ifx\exhibitlistfirst\empty
+        \gdef\exhibitlistfirst{1}%
+        \ExhibitRef{#1}%
+    \else
+        \ \ExhibitRef{#1}%
+    \fi
+}

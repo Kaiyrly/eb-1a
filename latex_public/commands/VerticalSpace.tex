@@ -1,3 +1,11 @@
 \newcommand\VerticalSpace{%
     \vspace{2em}%
 }
+
+
+% --- Prevent word hyphenation (no splitting words) ---
+\hyphenpenalty=10000        % discourage hyphenation
+\exhyphenpenalty=10000      % discourage hyphenation after explicit hyphens
+\pretolerance=10000         % try hard to avoid hyphenation
+\tolerance=2000
+\emergencystretch=0.5em       % helps avoid overfull lines without hyphenating
