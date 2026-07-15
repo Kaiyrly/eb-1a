@@ -3,11 +3,16 @@
 %   1 - label
 %   2 - title
 \newcommand{\Exhibit}[2]{%
+    \clearpage
+    \phantomsection
     \refstepcounter{exhibit}%
     \label{ex:#1}
+    \vspace*{0.13\textheight}
     \UnnumberedTitle{Exhibit \theexhibit}
     \begin{center}
         \noindent\textbf{#2}\par
     \end{center}
     \addcontentsline{\ExhibitGroup}{Exhibits}{\protect\numberline{\theexhibit}#2}%
+    \vfill
+    \clearpage
 }

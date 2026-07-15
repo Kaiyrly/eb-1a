@@ -1,0 +1,30 @@
+\documentclass[12pt,letterpaper]{article}
+
+\input{use}
+\input{style}
+
+\subimport{./}{definitions}
+\subimport{commands/}{commands}
+
+\newcounter{exhibit}
+\newlistof[section]{Exhibits}{loe}{}
+\renewcommand{\cftExhibitspresnum}{Exhibits }
+
+% In the lightweight build, keep exhibit references as text only because
+% the appendix pages are intentionally omitted from the document.
+\renewcommand\ExhibitRef[1]{%
+    [Exhibit~\ref*{ex:#1}, page~\pageref*{ex:#1}]%
+}
+
+\begin{document}
+
+    \cftsetindents{Exhibits}{0em}{5.3em}
+
+    \subimport{./}{toc_no_exhibits}
+
+    % \subimport{Forms/}{Forms}
+    % \subimport{Passport/}{Passport}
+    \subimport{Body/}{Body}
+    \subimport{WorkPlan/}{WorkPlan}
+
+\end{document}

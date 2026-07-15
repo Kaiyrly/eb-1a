@@ -22,7 +22,11 @@
 
 \usepackage{soul}
 \setul{0.2ex}{0.1ex}
+\let\plainunderline\underline
 \renewcommand{\underline}[1]{\ul{#1}}
+% \newcommand{\underline}[1]{%
+%     \plainunderline{\makebox[\linewidth][l]{#1\hfill}}%
+% }
 
 
 \Urlmuskip=0mu plus 1mu\relax

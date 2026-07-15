@@ -1,0 +1,4880 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=latex 2025.8.21)  11 APR 2026 22:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\let\HCode\documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafte
+r\def\csname tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@
+ifnextchar[{\HCode}{\documentstyle[tex4ht]}}\RequirePackage[#1,html]{tex4ht}}\m
+akeatother\HCode xhtml,,charset=utf-8,ooffice.a.b.c.\input "\detokenize{inkin.t
+ex}"
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2025-02-27-12:30
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks17
+) (./inkin.tex (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/usepackag
+e.4ht
+version 2024-12-06-14:38
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (./use.tex (/usr/local/texlive/2025/texmf-dist/tex/latex/dirtytalk/dirtytalk.
+sty
+Package: dirtytalk 2010/11/21 A package making "quoting" easier
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@dirtytalk@qdepth=\count270
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/enumitem-hooks.4ht
+version 2024-09-09-13:35
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip51
+\enit@outerparindent=\dimen142
+\enit@toks=\toks19
+\enit@inbox=\box52
+\enit@count@id=\count271
+\enitdp@description=\count272
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/fancyhdr-hooks.4ht
+version 2020-10-17-13:53
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip52
+\f@nch@offset@elh=\skip53
+\f@nch@offset@erh=\skip54
+\f@nch@offset@olh=\skip55
+\f@nch@offset@orh=\skip56
+\f@nch@offset@elf=\skip57
+\f@nch@offset@erf=\skip58
+\f@nch@offset@olf=\skip59
+\f@nch@offset@orf=\skip60
+\f@nch@height=\skip61
+\f@nch@footalignment=\skip62
+\f@nch@widthL=\skip63
+\f@nch@widthC=\skip64
+\f@nch@widthR=\skip65
+\@temptokenb=\toks20
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks21
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/graphics-hooks.4ht
+version 2022-08-17-14:25
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 106.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2022/09/22 v3.1e Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip66
+\LTright=\skip67
+\LTpre=\skip68
+\LTpost=\skip69
+\LTchunksize=\count277
+\LTcapwidth=\dimen153
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count278
+\LT@rows=\count279
+\c@LT@tables=\count280
+\c@LT@chunks=\count281
+\LT@p@ftn=\toks24
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
+\MT@toks=\toks25
+\MT@tempbox=\box58
+\MT@count=\count282
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
+LaTeX Info: Redefining \leftprotrusion on input line 1088.
+\MT@prot@toks=\toks26
+LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen154
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count283
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip70
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2025/02/11 v3.2a microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2025/01/30 v0.6e Insert pages of external PDF documents (AM)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count284
+\calc@Bcount=\count285
+\calc@Adimen=\dimen155
+\calc@Bdimen=\dimen156
+\calc@Askip=\skip71
+\calc@Bskip=\skip72
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count286
+\calc@Cskip=\skip73
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/esopic-hooks.4ht
+version 2020-10-17-13:53
+tex4ht warning: package eso-pic was prevented from loading
+)
+\AM@pagewidth=\dimen157
+\AM@pageheight=\dimen158
+\AM@fboxrule=\dimen159
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2025/01/30 v0.6e Pdfpages driver for pdfTeX (AM)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdfpages/ppnull.def
+File: ppnull.def 2025/01/30 v0.6e Pdfpages dummy driver (AM)
+
+Package pdfpages Warning: I will use a dummy \includepdf command
+(pdfpages)                which will insert empty pages instead of the actual
+(pdfpages)                PDF file because we are running in DVI mode or with
+(pdfpages)                dvips driver.
+
+))
+\pdfpages@includegraphics@status=\count287
+\AM@pagebox=\box59
+\AM@global@opts=\toks27
+\AM@pagecnt=\count288
+\AM@toc@title=\toks28
+\AM@lof@heading=\toks29
+\c@AM@survey=\count289
+\AM@templatesizebox=\box60
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/scrwfile/scrwfile.sty
+Package: scrwfile 2023-03-31 v0.1.99 KOMA-Script package (write and clone files
+)
+
+Package scrwfile Warning: THIS IS AN EXPERIMENTAL PACKAGE!
+(scrwfile)                USAGE OF THIS PACKAGE IS ON YOUR OWN RISK!
+(scrwfile)                EVERYTHING MAY HAPPEN!
+(scrwfile)                EVERYTHING MAY CHANGE IN FUTURE!
+(scrwfile)                THERE IS NO SUPPORT, IF YOU USE THIS PACKAGE!
+(scrwfile)                Maybe, it would be better not to load this package.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2024/10/24 v3.43 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2024/10/24 v3.43 KOMA-Script package (file load hooks)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2024/10/24 v3.43 KOMA-Script package (using LaTeX hooks)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2024/10/24 v3.43 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 370.
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks30
+\SOUL@lasttoken=\toks31
+\SOUL@syllable=\toks32
+\SOUL@cmds=\toks33
+\SOUL@buffer=\toks34
+\SOUL@token=\toks35
+\SOUL@syllgoal=\dimen160
+\SOUL@syllwidth=\dimen161
+\SOUL@charkern=\dimen162
+\SOUL@hyphkern=\dimen163
+\SOUL@dimen=\dimen164
+\SOUL@dimeni=\dimen165
+\SOUL@minus=\count290
+\SOUL@comma=\count291
+\SOUL@apo=\count292
+\SOUL@grave=\count293
+\SOUL@spaceskip=\skip74
+\SOUL@ttwidth=\dimen166
+\SOUL@uldp=\dimen167
+\SOUL@ulht=\dimen168
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/tabfigures/tabfigures.sty
+Package: tabfigures 2012/01/24 v1.1 Patches for using tabular figures
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip75
+\cftbeforetoctitleskip=\skip76
+\cftaftertoctitleskip=\skip77
+\cftbeforepartskip=\skip78
+\cftpartnumwidth=\skip79
+\cftpartindent=\skip80
+\cftbeforesecskip=\skip81
+\cftsecindent=\skip82
+\cftsecnumwidth=\skip83
+\cftbeforesubsecskip=\skip84
+\cftsubsecindent=\skip85
+\cftsubsecnumwidth=\skip86
+\cftbeforesubsubsecskip=\skip87
+\cftsubsubsecindent=\skip88
+\cftsubsubsecnumwidth=\skip89
+\cftbeforeparaskip=\skip90
+\cftparaindent=\skip91
+\cftparanumwidth=\skip92
+\cftbeforesubparaskip=\skip93
+\cftsubparaindent=\skip94
+\cftsubparanumwidth=\skip95
+\cftbeforeloftitleskip=\skip96
+\cftafterloftitleskip=\skip97
+\cftbeforefigskip=\skip98
+\cftfigindent=\skip99
+\cftfignumwidth=\skip100
+\c@lofdepth=\count294
+\c@lotdepth=\count295
+\cftbeforelottitleskip=\skip101
+\cftafterlottitleskip=\skip102
+\cftbeforetabskip=\skip103
+\cfttabindent=\skip104
+\cfttabnumwidth=\skip105
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/xcolor-hooks.4ht
+version 2020-10-17-13:53
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 274.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/hyperref-hooks.4ht
+version 2023-09-17-08:01
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count296
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen169
+\Hy@linkcounter=\count297
+\Hy@pagecounter=\count298
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count299
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count300
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen170
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count301
+\Field@Width=\dimen171
+\Fld@charsize=\dimen172
+\Field@toks=\toks36
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring ON on input line 6060.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count302
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver: htex4ht.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/htex4ht.def
+File: htex4ht.def 2024-11-05 v7.01l Hyperref driver for TeX4ht
+Package hyperref Info: tex4ht is already loaded.
+) (./style.tex
+Package hyperref Info: Option `colorlinks' set `false' on input line 19.
+) (././definitions.tex) (./commands/commands.tex (./commands/continue.tex (/usr
+/local/texlive/2025/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box61
+\UL@hyphenbox=\box62
+\UL@skip=\skip106
+\UL@hook=\toks37
+\UL@height=\dimen173
+\UL@pe=\count303
+\UL@pixel=\dimen174
+\ULC@box=\box63
+Package: ulem 2019/11/18
+\ULdepth=\dimen175
+)) (./commands/quote.tex) (./commands/names.tex) (./commands/Exhibit.tex) (./co
+mmands/ExhibitRef.tex) (./commands/lExhibits.tex) (./commands/ListOfExhibits.te
+x) (./commands/NOTE.tex) (./commands/ResumeItem.tex) (./commands/SectionRef.tex
+) (./commands/SubSubSubSection.tex) (./commands/TODO.tex) (./commands/Unnumbere
+dTitle.tex) (./commands/VerticalSpace.tex) (/usr/local/texlive/2025/texmf-dist/
+tex/generic/tex4ht/enumitem-hooks.4ht
+version 2024-09-09-13:35
+))
+\c@exhibit=\count304
+\c@Exhibits=\count305
+\cftbeforeExhibitsskip=\skip107
+\cftExhibitsindent=\skip108
+\cftExhibitsnumwidth=\skip109
+\c@loedepth=\count306
+\cftbeforeloetitleskip=\skip110
+\cftafterloetitleskip=\skip111
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2025-02-09-08:05
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2025-02-27-12:30
+l.875 --- TeX4ht warning --- nonprimitive \everypar ---
+--- needs --- tex4ht inkin ---
+\tmp:cnt=\count307
+\openout15 = `inkin.tmp'.
+
+(../out/latex_public_docx/build/inkin.tmp)
+\tmp:dim=\skip112
+(../out/latex_public_docx/build/inkin.xref)
+\:refout=\write3
+\openout3 = `inkin.xref'.
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+--------------------------------------
+--- Note --- for end notes instead of footnotes, use the command line option `e
+ndnotes'
+--------------------------------------
+--------------------------------------
+--- Note --- to request links from the tables of contents, use the command line
+ option from `TocLink'
+--------------------------------------
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)
+\:tokwrite=\toks38
+\:tokpage=\toks39
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `inkin.4ct'.
+
+\:tocout=\write4
+\openout4 = `inkin.4tc'.
+
+(inkin.4tc) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2025-02-05-13:01
+LaTeX Info: Redefining \_ on input line 180.
+LaTeX Info: Redefining \begin on input line 624.
+LaTeX Info: Redefining \end on input line 672.
+LaTeX Info: Redefining \, on input line 834.
+LaTeX Info: Redefining \; on input line 835.
+LaTeX Info: Redefining \! on input line 836.
+LaTeX Info: Redefining \: on input line 837.
+LaTeX Info: Redefining \> on input line 838.
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for description lists where header is in the same paragraph as des
+cription, use the `description-inline' command option
+--------------------------------------
+--------------------------------------
+--- Note --- To disable use of sections for text alignment environemnts, use th
+e "NoSections" option
+--------------------------------------
+--------------------------------------
+--- Note --- to hide clickable index and bibliography references use the comman
+d line option `hidden-ref'
+--------------------------------------
+\tmp:bx=\box64
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+LaTeX Info: Command `\log' is already robust on input line 547.
+LaTeX Info: Command `\lg' is already robust on input line 548.
+LaTeX Info: Command `\ln' is already robust on input line 549.
+LaTeX Info: Command `\sin' is already robust on input line 550.
+LaTeX Info: Command `\arcsin' is already robust on input line 551.
+LaTeX Info: Command `\sinh' is already robust on input line 552.
+LaTeX Info: Command `\cos' is already robust on input line 553.
+LaTeX Info: Command `\arccos' is already robust on input line 554.
+LaTeX Info: Command `\cosh' is already robust on input line 555.
+LaTeX Info: Command `\tan' is already robust on input line 556.
+LaTeX Info: Command `\arctan' is already robust on input line 557.
+LaTeX Info: Command `\tanh' is already robust on input line 558.
+LaTeX Info: Command `\cot' is already robust on input line 559.
+LaTeX Info: Command `\coth' is already robust on input line 560.
+LaTeX Info: Command `\sec' is already robust on input line 561.
+LaTeX Info: Command `\csc' is already robust on input line 562.
+LaTeX Info: Command `\arg' is already robust on input line 563.
+LaTeX Info: Command `\ker' is already robust on input line 564.
+LaTeX Info: Command `\dim' is already robust on input line 565.
+LaTeX Info: Command `\hom' is already robust on input line 566.
+LaTeX Info: Command `\exp' is already robust on input line 567.
+LaTeX Info: Command `\deg' is already robust on input line 568.
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+--------------------------------------
+--- Note --- for tab-based layoutof equation environment use the command line o
+ption `tab-eq'
+--------------------------------------
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2022-10-25-13:59
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 1474.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1474.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1474.
+
+Overfull \hbox (9814.22557pt too wide) in paragraph at lines 1474--1477
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/article.4ht
+version 2023-04-10-13:46
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+--------------------------------------
+--- Note --- for a degraded bibliography friendlier for conversion to .doc, use
+ the command line option `bib-'
+--------------------------------------
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ifthen.4ht
+version 2022-06-08-14:13
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/enumitem.4ht
+version 2024-09-09-13:35
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/geometry.4ht
+version 2016-07-01-08:55
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2022-01-12-13:53
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/graphics.4ht
+version 2024-03-07-13:56
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/url.4ht
+version 2023-02-19-10:11
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+--------------------------------------
+--- Note --- for URL encoding within href use the command line option `url-enc'
+; for hyperlink-less entry use the command line option `url-'
+--------------------------------------
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/inputenc.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/longtable.4ht
+version 2024-09-30-13:40
+\LT:box=\box65
+\LT:ebox=\box66
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/microtype.4ht
+version 2024-04-24-15:10
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/pdfpages.4ht
+version 2022-06-20-14:19
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/soul.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/tocloft.4ht
+version 2014-07-13-16:08
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/xcolor.4ht
+version 2024-05-09-14:07
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2022-02-01-14:27
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/color.4ht
+version 2022-02-01-14:27
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/hyperref.4ht
+version 2024-02-29-14:08
+LaTeX Info: Redefining \autoref on input line 88.
+\Hy@SectionHShift=\skip113
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/nameref.4ht
+version 2025-03-03-13:56
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/pd1enc.4ht
+version 2009-05-21-09:32
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ulem.4ht
+version 2022-05-01-08:25
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice.4ht
+version 2025-02-28-09:13
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2024-12-15-07:18
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/mathml.4ht
+version 2025-02-26-14:10
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/ooffice-mml.4ht
+version 2024-01-29-13:27
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2024-05-08 L3 backend support: dvips
+\l__pdf_internal_box=\box67
+\l__pdf_backend_content_box=\box68
+\l__pdf_backend_model_box=\box69
+\g__pdf_backend_annotation_int=\count308
+\g__pdf_backend_link_int=\count309
+\g__pdf_backend_link_sf_int=\count310
+) (../out/latex_public_docx/build/inkin.aux)
+\openout1 = `inkin.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(59.75095pt, 494.7931pt, 59.75095pt)
+* v-part:(T,H,B)=(59.75095pt, 675.4681pt, 59.75095pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=494.7931pt
+* \textheight=675.4681pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-49.51904pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \microtypecontext on input line 14.
+Package microtype Info: Not applying patch `item' (for tex4ht) on input line 14
+.
+Package microtype Info: Not applying patch `toc' (for tex4ht) on input line 14.
+
+Package microtype Info: Not applying patch `eqnum' (for tex4ht) on input line 1
+4.
+Package microtype Info: Not applying patch `footnote' (for tex4ht) on input lin
+e 14.
+Package microtype Info: Not applying patch `verbatim' (for tex4ht) on input lin
+e 14.
+LaTeX Info: Redefining \microtypesetup on input line 14.
+Package microtype Info: Generating DVI output.
+Package microtype Info: No character protrusion.
+Package microtype Info: No font expansion.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.st
+y
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/tex4ht/graphics-hooks.4ht
+version 2022-08-17-14:25
+))
+Package pdflscape Info: Auto-detected driver: dvips (dvips) on input line 124.
+))
+Package scrwfile Info: Using immediate redefinition of `\@starttoc' on input li
+ne 14.
+Package scrwfile Info: Extending `\@starttoc`  on input line 14.
+
+Package tabfigures Warning: There is no command \tbfigures to support tabular f
+igures.
+
+Package hyperref Info: Link coloring OFF on input line 14.
+(../out/latex_public_docx/build/inkin.4as)
+\:automaticstylesfile=\write5
+\openout5 = `inkin.4as'.
+
+(././toc.tex
+
+[1
+
+])
+
+[2] (./Body/Body.tex (./Body/Intro/Intro.tex
+
+[3]
+
+[4])
+
+[5] (./Body/Summary/Summary.tex
+
+[6]
+
+[7]) (./Body/Evidence/Evidence.tex (./Body/Evidence/Awards/Awards.tex
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]) (./Body/Evidence/Associations/Associations.tex
+
+[19]
+
+[20]
+
+[21]) (./Body/Evidence/Published/Published.tex
+
+[22]
+
+[23]
+
+[24]) (./Body/Evidence/Judging/Judging.tex
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]) (./Body/Evidence/Contributions/Contributions.tex
+
+[36]
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]) (./Body/Evidence/Articles/Articles.tex
+
+[51]
+
+[52]
+
+[53]
+
+LaTeX Warning: Reference `ex:AutomationModern' on page 54 undefined on input li
+ne 126.
+
+
+LaTeX Warning: Reference `ex:AutomationModern' on page 54 undefined on input li
+ne 126.
+
+
+LaTeX Warning: Reference `ex:AutomationModernSite' on page 54 undefined on inpu
+t line 126.
+
+
+LaTeX Warning: Reference `ex:AutomationModernSite' on page 54 undefined on inpu
+t line 126.
+
+
+
+[54]) (./Body/Evidence/Role/Role.tex
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+
+[65]
+
+[66]
+
+[67]
+
+[68]
+
+[69]
+
+[70]
+
+[71]
+
+[72]
+
+[73]) (./Body/Evidence/Display/Display.tex
+
+[74]
+
+[75]
+
+[76]
+
+[77]) (./Body/Evidence/Salary/Salary.tex
+
+[78]
+
+[79]
+--- file inkin-m2.4om ---
+
+
+[80]
+--- file inkin-m3.4om ---
+--- file inkin-m4.4om ---
+--- file inkin-m5.4om ---
+--- file inkin-m6.4om ---
+
+
+[81
+
+])) (./Body/Merits/Merits.tex
+
+[82]
+
+[83]
+
+[84]
+
+[85]) (./Body/Benefit/Benefit.tex
+
+[86]
+
+[87]) (./Body/Conclusion/Conclusion.tex
+
+[88]))
+
+[89] (./WorkPlan/WorkPlan.tex
+
+[90])
+
+[91] (./ListOfExhibits/ListOfExhibits.tex (../out/latex_public_docx/build/inkin
+.Awards) (../out/latex_public_docx/build/inkin.Associations) (../out/latex_publ
+ic_docx/build/inkin.Published) (../out/latex_public_docx/build/inkin.Judging) (
+../out/latex_public_docx/build/inkin.CompanyInfo) (../out/latex_public_docx/bui
+ld/inkin.Contributions) (../out/latex_public_docx/build/inkin.Articles) (../out
+/latex_public_docx/build/inkin.Role) (../out/latex_public_docx/build/inkin.Disp
+lay) (../out/latex_public_docx/build/inkin.Salary) (../out/latex_public_docx/bu
+ild/inkin.Events))
+
+[92] (./Exhibits/Exhibits.tex (./Exhibits/Awards/Awards.tex (./Exhibits/Awards/
+ErenEnbegi_Photo1/ErenEnbegi_Photo1.tex
+
+[93]
+
+[94
+
+]
+
+! LaTeX Error: File `../ErenEnbegi_Photo1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...[width=0.9\textwidth]{../ErenEnbegi_Photo1}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[95
+
+] (./Exhibits/Awards/ErenEnbegi_Photo2/ErenEnbegi_Photo2.tex
+
+[96]
+
+[97
+
+]
+
+! LaTeX Error: File `../ErenEnbegi_Photo2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...[width=0.9\textwidth]{../ErenEnbegi_Photo2}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[98
+
+] (./Exhibits/Awards/Bolashak/Bolashak.tex (./Exhibits/Awards/Bolashak/Decree20
+05/Decree2005.tex
+
+[99]
+
+[100
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.6 --- TeX4ht warning --- File `"Exhibits/Awards/Bolashak/Decree2005/../Decree
+.xbb"' not found ---
+l.6 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Awards
+/Bolashak/Decree2005/../Decree.xbb" (no BoundingBox) ---
+l. 6 --- needs --- Decree--.png ---
+
+
+[101
+
+]) (./Exhibits/Awards/Bolashak/SupportLetter/SupportLetter.tex
+
+[102
+
+]
+
+[103
+
+]
+
+! LaTeX Error: File `../SupportLetter' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...hics[width=0.9\textwidth]{../SupportLetter}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[104
+
+] (./Exhibits/Awards/Bolashak/BolashakFG_UCL/BolashakFG_UCL.tex
+
+[105]
+
+[106
+
+]
+
+! LaTeX Error: File `BolashakFG_UCL' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...aphics[width=0.9\textwidth]{BolashakFG_UCL}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[107
+
+] (./Exhibits/Awards/Bolashak/BolashakFG_Embassy/BolashakFG_Embassy.tex
+
+[108]
+
+[109
+
+]
+
+! LaTeX Error: File `BolashakFG_Embassy' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...cs[width=0.9\textwidth]{BolashakFG_Embassy}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[110
+
+]) (./Exhibits/Awards/PresAlghys2022/PresAlghys2022.tex
+
+[111]
+
+[112
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.5 --- TeX4ht warning --- File `"Exhibits/Awards/PresAlghys2022/PresAlghys2022
+.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Awards
+/PresAlghys2022/PresAlghys2022.xbb" (no BoundingBox) ---
+l. 5 --- needs --- PresAlghys2022--.png ---
+
+
+[113
+
+]) (./Exhibits/Awards/PresAlghys2024/PresAlghys2024.tex
+
+[114
+
+]
+
+[115
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.5 --- TeX4ht warning --- File `"Exhibits/Awards/PresAlghys2024/PresAlghys2024
+.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Awards
+/PresAlghys2024/PresAlghys2024.xbb" (no BoundingBox) ---
+l. 5 --- needs --- PresAlghys2024--.png ---
+
+
+[116
+
+]) (./Exhibits/Awards/AkimAlgys2022/AkimAlgys2022.tex
+
+[117
+
+]
+
+[118
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Awards/AkimAlgys2022/AkimAlgys2022.x
+bb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Awards
+/AkimAlgys2022/AkimAlgys2022.xbb" (no BoundingBox) ---
+l. 4 --- needs --- AkimAlgys2022--.png ---
+
+
+[119
+
+]) (./Exhibits/Awards/AkimKurmet2022/AkimKurmet2022.tex
+
+[120
+
+]
+
+[121
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Awards/AkimKurmet2022/AkimKurmet2022
+.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Awards
+/AkimKurmet2022/AkimKurmet2022.xbb" (no BoundingBox) ---
+l. 4 --- needs --- AkimKurmet2022--.png ---
+
+
+[122
+
+])) (./Exhibits/Associations/Associations.tex (./Exhibits/Associations/KaibAdmi
+ssionLetter/KaibAdmissionLetter.tex
+
+[123
+
+]
+
+[124
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Associations/KaibAdmissionLetter/Kai
+bAdmissionLetter.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Associ
+ations/KaibAdmissionLetter/KaibAdmissionLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KaibAdmissionLetter--.png ---
+
+
+[125
+
+]) (./Exhibits/Associations/KISASite/KISASite.tex
+
+[126
+
+]
+
+[127
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Associations/KISASite/KISASite.xbb"'
+ not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Associ
+ations/KISASite/KISASite.xbb" (no BoundingBox) ---
+l. 5 --- needs --- KISASite.png ---
+)
+
+[128
+
+] (./Exhibits/Associations/KISAMeeting/KISAMeeting.tex
+
+[129]
+
+[130
+
+]
+l.6 --- TeX4ht warning --- File `"Exhibits/Associations/KISAMeeting/KISAMeeting
+1.xbb"' not found ---
+l.6 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Associ
+ations/KISAMeeting/KISAMeeting1.xbb" (no BoundingBox) ---
+l. 6 --- needs --- KISAMeeting1.png ---
+
+
+[131
+
+]
+l.11 --- TeX4ht warning --- File `"Exhibits/Associations/KISAMeeting/KISAMeetin
+g2.xbb"' not found ---
+l.11 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Assoc
+iations/KISAMeeting/KISAMeeting2.xbb" (no BoundingBox) ---
+l. 11 --- needs --- KISAMeeting2.png ---
+
+
+[132]
+l.16 --- TeX4ht warning --- File `"Exhibits/Associations/KISAMeeting/KISAMeetin
+g3.xbb"' not found ---
+l.16 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Assoc
+iations/KISAMeeting/KISAMeeting3.xbb" (no BoundingBox) ---
+l. 16 --- needs --- KISAMeeting3.png ---
+)
+
+[133] (./Exhibits/Associations/PokusovTalk/PokusovTalk.tex
+
+[134]
+
+[135
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Associations/PokusovTalk/PokusovTalk
+.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Associ
+ations/PokusovTalk/PokusovTalk.xbb" (no BoundingBox) ---
+l. 5 --- needs --- PokusovTalk.png ---
+)
+
+[136
+
+] (./Exhibits/Associations/RoundTable/RoundTable.tex
+
+[137]
+
+[138
+
+]
+l.6 --- TeX4ht warning --- File `"Exhibits/Associations/RoundTable/RoundTable1.
+xbb"' not found ---
+l.6 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Associ
+ations/RoundTable/RoundTable1.xbb" (no BoundingBox) ---
+l. 6 --- needs --- RoundTable1.png ---
+
+
+[139
+
+]
+l.11 --- TeX4ht warning --- File `"Exhibits/Associations/RoundTable/RoundTable2
+.xbb"' not found ---
+l.11 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Assoc
+iations/RoundTable/RoundTable2.xbb" (no BoundingBox) ---
+l. 11 --- needs --- RoundTable2.png ---
+
+
+[140]
+l.16 --- TeX4ht warning --- File `"Exhibits/Associations/RoundTable/RoundTable3
+.xbb"' not found ---
+l.16 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Assoc
+iations/RoundTable/RoundTable3.xbb" (no BoundingBox) ---
+l. 16 --- needs --- RoundTable3.png ---
+)
+
+[141] (./Exhibits/Associations/PMCertificate/PMCertificate.tex
+
+[142]
+
+[143
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Associations/PMCertificate/PMCertifi
+cate.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Associ
+ations/PMCertificate/PMCertificate.xbb" (no BoundingBox) ---
+l. 4 --- needs --- PMCertificate--.png ---
+
+
+[144
+
+]) (./Exhibits/Associations/CareerKISA/CareerKISA.tex
+
+[145
+
+]
+
+[146
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Associations/CareerKISA/Career1.xbb"
+' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Associ
+ations/CareerKISA/Career1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- Career1.png ---
+
+
+[147
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Associations/CareerKISA/Career2.xbb"
+' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Associ
+ations/CareerKISA/Career2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- Career2.png ---
+)
+
+[148]) (./Exhibits/Published/Published.tex (./Exhibits/Published/KazPravdaArtic
+le/KazPravdaArticle.tex
+
+[149]
+
+[150
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Published/KazPravdaArticle/KazPravda
+Article.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/KazPravdaArticle/KazPravdaArticle.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KazPravdaArticle--.png ---
+
+
+[151
+
+]) (./Exhibits/Published/KazPravdaHistory/KazPravdaHistory.tex
+
+[152
+
+]
+
+[153
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Published/KazPravdaHistory/History95
+.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/KazPravdaHistory/History95.xbb" (no BoundingBox) ---
+l. 4 --- needs --- History95--.png ---
+
+
+[154
+
+]) (./Exhibits/Published/KazPravda105/KazPravda105.tex
+
+[155
+
+]
+
+[156
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Published/KazPravda105/KazPravda105.
+xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/KazPravda105/KazPravda105.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KazPravda105--.png ---
+
+
+[157
+
+]) (./Exhibits/Published/KazPravdaInst/KazPravdaInst.tex
+
+[158
+
+]
+
+[159
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Published/KazPravdaInst/KazPravdaIns
+t.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/KazPravdaInst/KazPravdaInst.xbb" (no BoundingBox) ---
+l. 5 --- needs --- KazPravdaInst.png ---
+)
+
+[160
+
+] (./Exhibits/Published/DalaNewsArticle/DalaNewsArticle.tex
+
+[161]
+
+[162
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Published/DalaNewsArticle/DalaNewsAr
+ticle1.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/DalaNewsArticle/DalaNewsArticle1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- DalaNewsArticle1.png ---
+
+
+[163
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Published/DalaNewsArticle/DalaNewsAr
+ticle2.xbb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/DalaNewsArticle/DalaNewsArticle2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- DalaNewsArticle2.png ---
+
+
+[164]
+l.13 --- TeX4ht warning --- File `"Exhibits/Published/DalaNewsArticle/DalaNewsA
+rticle3.xbb"' not found ---
+l.13 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publi
+shed/DalaNewsArticle/DalaNewsArticle3.xbb" (no BoundingBox) ---
+l. 13 --- needs --- DalaNewsArticle3.png ---
+
+
+[165]
+l.17 --- TeX4ht warning --- File `"Exhibits/Published/DalaNewsArticle/DalaNewsA
+rticle4.xbb"' not found ---
+l.17 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publi
+shed/DalaNewsArticle/DalaNewsArticle4.xbb" (no BoundingBox) ---
+l. 17 --- needs --- DalaNewsArticle4.png ---
+)
+
+[166] (./Exhibits/Published/DalaNewsSite/DalaNewsSite.tex
+
+[167]
+
+[168
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Published/DalaNewsSite/DalaNewsSite.
+xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/DalaNewsSite/DalaNewsSite.xbb" (no BoundingBox) ---
+l. 5 --- needs --- DalaNewsSite.png ---
+)
+
+[169
+
+] (./Exhibits/Published/DalaNewsInst/DalaNewsInst.tex
+
+[170]
+
+[171
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Published/DalaNewsInst/DalaNewsInst.
+xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/DalaNewsInst/DalaNewsInst.xbb" (no BoundingBox) ---
+l. 5 --- needs --- DalaNewsInst.png ---
+)
+
+[172
+
+] (./Exhibits/Published/ElordaInfoArticle/ElordaInfoArticle.tex
+
+[173]
+
+[174
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Published/ElordaInfoArticle/ElordaIn
+foArticle1.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/ElordaInfoArticle/ElordaInfoArticle1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- ElordaInfoArticle1.png ---
+
+
+[175
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Published/ElordaInfoArticle/ElordaIn
+foArticle2.xbb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/ElordaInfoArticle/ElordaInfoArticle2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- ElordaInfoArticle2.png ---
+)
+
+[176] (./Exhibits/Published/ElordaInfoSite/ElordaInfoSite.tex
+
+[177]
+
+[178
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Published/ElordaInfoSite/ElordaInfoS
+ite.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/ElordaInfoSite/ElordaInfoSite.xbb" (no BoundingBox) ---
+l. 5 --- needs --- ElordaInfoSite.png ---
+)
+
+[179
+
+] (./Exhibits/Published/ElordaInst/ElordaInst.tex
+
+[180]
+
+[181
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Published/ElordaInst/ElordaInst.xbb"
+' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/ElordaInst/ElordaInst.xbb" (no BoundingBox) ---
+l. 5 --- needs --- ElordaInst.png ---
+)
+
+[182
+
+] (./Exhibits/Published/ProfitContactDay2025/ProfitContactDay2025.tex
+
+[183]
+
+[184
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Published/ProfitContactDay2025/Profi
+tContactDay2025.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/ProfitContactDay2025/ProfitContactDay2025.xbb" (no BoundingBox) ---
+l. 4 --- needs --- ProfitContactDay2025--.png ---
+
+
+[185
+
+]) (./Exhibits/Published/ProfitLeader/ProfitLeader.tex
+
+[186
+
+]
+
+[187
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Published/ProfitLeader/ProfitLeader.
+xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/ProfitLeader/ProfitLeader.xbb" (no BoundingBox) ---
+l. 4 --- needs --- ProfitLeader--.png ---
+
+
+[188
+
+]) (./Exhibits/Published/ErtenMediaArticle/ErtenMediaArticle.tex
+
+[189
+
+]
+
+[190
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Published/ErtenMediaArticle/ErtenMed
+iaArticle.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/ErtenMediaArticle/ErtenMediaArticle.xbb" (no BoundingBox) ---
+l. 4 --- needs --- ErtenMediaArticle--.png ---
+
+
+[191
+
+]) (./Exhibits/Published/ErtenMediaInst/ErtenMediaInst.tex
+
+[192
+
+]
+
+[193
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Published/ErtenMediaInst/ErtenMediaI
+nst.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Publis
+hed/ErtenMediaInst/ErtenMediaInst.xbb" (no BoundingBox) ---
+l. 5 --- needs --- ErtenMediaInst.png ---
+)
+
+[194
+
+]) (./Exhibits/Judging/Judging.tex (./Exhibits/Judging/AIUReviewer/AIUReviewer.
+tex
+
+[195]
+
+[196
+
+]
+
+! LaTeX Error: File `AIUReviewer' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...graphics[width=0.95\textwidth]{AIUReviewer}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[197
+
+] (./Exhibits/Judging/AIUScienceSite/AIUScienceSite.tex
+
+[198]
+
+[199
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Judging/AIUScienceSite/AIUScienceSit
+e1.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/AIUScienceSite/AIUScienceSite1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- AIUScienceSite1.png ---
+
+
+[200
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Judging/AIUScienceSite/AIUScienceSit
+e2.xbb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/AIUScienceSite/AIUScienceSite2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- AIUScienceSite2.png ---
+)
+
+[201] (./Exhibits/Judging/AIUSite/AIUSite.tex
+
+[202]
+
+[203
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Judging/AIUSite/AIUSite1.xbb"' not f
+ound ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/AIUSite/AIUSite1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- AIUSite1.png ---
+
+
+[204
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Judging/AIUSite/AIUSite2.xbb"' not f
+ound ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/AIUSite/AIUSite2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- AIUSite2.png ---
+)
+
+[205] (./Exhibits/Judging/AIUInstagram/AIUInstagram.tex
+
+[206]
+
+[207
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Judging/AIUInstagram/AIUInstagram.xb
+b"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/AIUInstagram/AIUInstagram.xbb" (no BoundingBox) ---
+l. 5 --- needs --- AIUInstagram.png ---
+)
+
+[208
+
+] (./Exhibits/Judging/ENUReviewer/ENUReviewer.tex
+
+[209]
+
+[210
+
+]
+
+! LaTeX Error: File `ENUReviewer' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...graphics[width=0.95\textwidth]{ENUReviewer}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[211
+
+] (./Exhibits/Judging/ENUScienceSite/ENUScienceSite.tex
+
+[212]
+
+[213
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Judging/ENUScienceSite/ENUScienceSit
+e1.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ENUScienceSite/ENUScienceSite1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- ENUScienceSite1.png ---
+
+
+[214
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Judging/ENUScienceSite/ENUScienceSit
+e2.xbb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ENUScienceSite/ENUScienceSite2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- ENUScienceSite2.png ---
+)
+
+[215] (./Exhibits/Judging/ENUSite/ENUSite.tex
+
+[216]
+
+[217
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Judging/ENUSite/ENUSite1.xbb"' not f
+ound ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ENUSite/ENUSite1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- ENUSite1.png ---
+
+
+[218
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Judging/ENUSite/ENUSite2.xbb"' not f
+ound ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ENUSite/ENUSite2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- ENUSite2.png ---
+
+
+[219]
+l.13 --- TeX4ht warning --- File `"Exhibits/Judging/ENUSite/ENUSite3.xbb"' not 
+found ---
+l.13 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/ENUSite/ENUSite3.xbb" (no BoundingBox) ---
+l. 13 --- needs --- ENUSite3.png ---
+)
+
+[220] (./Exhibits/Judging/ENUQSRanking/ENUQSRanking.tex
+
+[221]
+
+[222
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Judging/ENUQSRanking/ENUQSRanking1.x
+bb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ENUQSRanking/ENUQSRanking1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- ENUQSRanking1.png ---
+
+
+[223
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Judging/ENUQSRanking/ENUQSRanking2.x
+bb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ENUQSRanking/ENUQSRanking2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- ENUQSRanking2.png ---
+)
+
+[224] (./Exhibits/Judging/ENUInstagram/ENUInstagram.tex
+
+[225]
+
+[226
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Judging/ENUInstagram/ENUInstagram.xb
+b"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ENUInstagram/ENUInstagram.xbb" (no BoundingBox) ---
+l. 5 --- needs --- ENUInstagram.png ---
+)
+
+[227
+
+] (./Exhibits/Judging/ITeachMeInv2023/ITeachMeInv2023.tex
+
+[228]
+
+[229
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMeInv2023/ITeachMeInv2
+023.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ITeachMeInv2023/ITeachMeInv2023.xbb" (no BoundingBox) ---
+l. 4 --- needs --- ITeachMeInv2023--.png ---
+
+
+[230
+
+]) (./Exhibits/Judging/ITeachMeInvitation2024/ITeachMeInvitation2024.tex
+
+[231
+
+]
+
+[232
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMeInvitation2024/ITeac
+hMeInvitation2024.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ITeachMeInvitation2024/ITeachMeInvitation2024.xbb" (no BoundingBox) ---
+l. 4 --- needs --- ITeachMeInvitation2024--.png ---
+
+
+[233
+
+]) (./Exhibits/Judging/OrleJudgingInsta/OrleJudgingInsta.tex
+
+[234
+
+]
+
+[235
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Judging/OrleJudgingInsta/OrleJudging
+Insta1.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/OrleJudgingInsta/OrleJudgingInsta1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- OrleJudgingInsta1.png ---
+
+
+[236
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Judging/OrleJudgingInsta/OrleJudging
+Insta2.xbb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/OrleJudgingInsta/OrleJudgingInsta2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- OrleJudgingInsta2.png ---
+)
+
+[237] (./Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto.tex
+
+[238]
+
+[239
+
+]
+l. 5 Writing inkin.idv[1] (inkin0x.png)
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/OrleJudgingPhoto/OrleJudgingPhoto1.JPG" (no BoundingBox) ---
+File: Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto1.JPG Graphic file (typ
+e eps)
+<Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto1.JPG>
+
+[240
+
+]
+l. 9 Writing inkin.idv[2] (inkin1x.png)
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/OrleJudgingPhoto/OrleJudgingPhoto2.JPG" (no BoundingBox) ---
+File: Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto2.JPG Graphic file (typ
+e eps)
+<Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto2.JPG>
+
+[241]
+l. 13 Writing inkin.idv[3] (inkin2x.png)
+l.13 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/OrleJudgingPhoto/OrleJudgingPhoto3.JPG" (no BoundingBox) ---
+File: Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto3.JPG Graphic file (typ
+e eps)
+<Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto3.JPG>
+
+[242]
+l. 17 Writing inkin.idv[4] (inkin3x.png)
+l.17 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/OrleJudgingPhoto/OrleJudgingPhoto4.JPG" (no BoundingBox) ---
+File: Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto4.JPG Graphic file (typ
+e eps)
+<Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto4.JPG>
+
+[243]
+l. 21 Writing inkin.idv[5] (inkin4x.png)
+l.21 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/OrleJudgingPhoto/OrleJudgingPhoto5.JPG" (no BoundingBox) ---
+File: Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto5.JPG Graphic file (typ
+e eps)
+<Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto5.JPG>
+
+[244]
+l. 25 Writing inkin.idv[6] (inkin5x.png)
+l.25 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/OrleJudgingPhoto/OrleJudgingPhoto6.JPG" (no BoundingBox) ---
+File: Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto6.JPG Graphic file (typ
+e eps)
+<Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto6.JPG>
+
+[245]
+l. 29 Writing inkin.idv[7] (inkin6x.png)
+l.29 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/OrleJudgingPhoto/OrleJudgingPhoto7.JPG" (no BoundingBox) ---
+File: Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto7.JPG Graphic file (typ
+e eps)
+<Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto7.JPG>
+
+[246]
+l. 33 Writing inkin.idv[8] (inkin7x.png)
+l.33 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/OrleJudgingPhoto/OrleJudgingPhoto8.JPG" (no BoundingBox) ---
+File: Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto8.JPG Graphic file (typ
+e eps)
+<Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto8.JPG>
+
+[247]
+l. 37 Writing inkin.idv[9] (inkin8x.png)
+l.37 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/OrleJudgingPhoto/OrleJudgingPhoto9.JPG" (no BoundingBox) ---
+File: Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto9.JPG Graphic file (typ
+e eps)
+<Exhibits/Judging/OrleJudgingPhoto/OrleJudgingPhoto9.JPG>)
+
+[248] (./Exhibits/Judging/OrleTechSite/OrleTechSite.tex
+
+[249]
+
+[250
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Judging/OrleTechSite/OrleTechSite1.x
+bb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/OrleTechSite/OrleTechSite1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- OrleTechSite1.png ---
+
+
+[251
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Judging/OrleTechSite/OrleTechSite2.x
+bb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/OrleTechSite/OrleTechSite2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- OrleTechSite2.png ---
+
+
+[252]
+l.13 --- TeX4ht warning --- File `"Exhibits/Judging/OrleTechSite/OrleTechSite3.
+xbb"' not found ---
+l.13 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/OrleTechSite/OrleTechSite3.xbb" (no BoundingBox) ---
+l. 13 --- needs --- OrleTechSite3.png ---
+)
+
+[253] (./Exhibits/Judging/ITeachMeCertificate/ITeachMeCertificate.tex
+
+[254]
+
+[255
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMeCertificate/ITeachMe
+.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ITeachMeCertificate/ITeachMe.xbb" (no BoundingBox) ---
+l. 4 --- needs --- ITeachMe--.png ---
+
+
+[256
+
+]) (./Exhibits/Judging/ITeachMe1024/ITeachMe1024.tex
+
+[257
+
+]
+
+[258
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMe1024/ITeachMe1024.xb
+b"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ITeachMe1024/ITeachMe1024.xbb" (no BoundingBox) ---
+l. 4 --- needs --- ITeachMe1024--.png ---
+
+
+[259
+
+]) (./Exhibits/Judging/ITeachMe2024Photo/ITeachMe2024Photo.tex
+
+[260
+
+]
+
+[261
+
+]
+l.6 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMe2024Photo/1.xbb"' no
+t found ---
+l.6 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/ITeachMe2024Photo/1.xbb" (no BoundingBox) ---
+l. 6 --- needs --- 1.png ---
+
+
+[262
+
+]
+l.11 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMe2024Photo/2.xbb"' n
+ot found ---
+l.11 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/ITeachMe2024Photo/2.xbb" (no BoundingBox) ---
+l. 11 --- needs --- 2.png ---
+
+
+[263]
+l.16 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMe2024Photo/3.xbb"' n
+ot found ---
+l.16 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/ITeachMe2024Photo/3.xbb" (no BoundingBox) ---
+l. 16 --- needs --- 3.png ---
+
+
+[264]
+l.21 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMe2024Photo/4.xbb"' n
+ot found ---
+l.21 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/ITeachMe2024Photo/4.xbb" (no BoundingBox) ---
+l. 21 --- needs --- 4.png ---
+
+
+[265]
+l.26 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMe2024Photo/5.xbb"' n
+ot found ---
+l.26 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/ITeachMe2024Photo/5.xbb" (no BoundingBox) ---
+l. 26 --- needs --- 5.png ---
+
+
+[266]
+l.31 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMe2024Photo/6.xbb"' n
+ot found ---
+l.31 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/ITeachMe2024Photo/6.xbb" (no BoundingBox) ---
+l. 31 --- needs --- 6.jpg ---
+
+
+[267]
+l.36 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMe2024Photo/7.xbb"' n
+ot found ---
+l.36 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/ITeachMe2024Photo/7.xbb" (no BoundingBox) ---
+l. 36 --- needs --- 7.jpg ---
+
+
+[268]
+l.41 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMe2024Photo/8.xbb"' n
+ot found ---
+l.41 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/ITeachMe2024Photo/8.xbb" (no BoundingBox) ---
+l. 41 --- needs --- 8.jpg ---
+
+
+[269]
+l.46 --- TeX4ht warning --- File `"Exhibits/Judging/ITeachMe2024Photo/9.xbb"' n
+ot found ---
+l.46 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgi
+ng/ITeachMe2024Photo/9.xbb" (no BoundingBox) ---
+l. 46 --- needs --- 9.jpg ---
+)
+
+[270] (./Exhibits/Judging/KasperskyExpert/KasperskyExpert.tex
+
+[271]
+
+[272
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Judging/KasperskyExpert/KasperskyExp
+ert.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/KasperskyExpert/KasperskyExpert.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KasperskyExpert--.png ---
+
+
+[273
+
+]) (./Exhibits/Judging/IkomekCommission/IkomekCommission.tex
+
+[274
+
+]
+
+[275
+
+]
+
+! LaTeX Error: File `IkomekCommission1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...cs[width=0.95\textwidth]{IkomekCommission1}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+
+[276
+
+]
+
+! LaTeX Error: File `IkomekCommission2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...cs[width=0.95\textwidth]{IkomekCommission2}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[277] (./Exhibits/Judging/STSCommission/STSCommission.tex
+
+[278]
+
+[279
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Judging/STSCommission/STSCommission.
+xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/STSCommission/STSCommission.xbb" (no BoundingBox) ---
+l. 4 --- needs --- STSCommission--.png ---
+
+
+[280
+
+]) (./Exhibits/Judging/EQKExpert/EQKExpert.tex
+
+[281
+
+]
+
+[282
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Judging/EQKExpert/EQKExpert.xbb"' no
+t found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Judgin
+g/EQKExpert/EQKExpert.xbb" (no BoundingBox) ---
+l. 4 --- needs --- EQKExpert--.png ---
+
+
+[283
+
+])) (./Exhibits/CompanyInfo/CompanyInfo.tex (./Exhibits/CompanyInfo/IKomekGov/I
+KomekGov.tex
+
+[284
+
+]
+
+[285
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekGov/IKomekGov.xbb"
+' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/IKomekGov/IKomekGov.xbb" (no BoundingBox) ---
+l. 5 --- needs --- IKomekGov.png ---
+)
+
+[286
+
+] (./Exhibits/CompanyInfo/IKomekInstagramShot/IKomekInstagramShot.tex
+
+[287]
+
+[288
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekInstagramShot/IKom
+ekInstagramShot.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/IKomekInstagramShot/IKomekInstagramShot.xbb" (no BoundingBox) ---
+l. 5 --- needs --- IKomekInstagramShot.png ---
+)
+
+[289
+
+] (./Exhibits/CompanyInfo/IKomekSiteShot/IKomekSiteShot.tex
+
+[290]
+
+[291
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekSiteShot/IkomekSit
+eShot1.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/IKomekSiteShot/IkomekSiteShot1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- IkomekSiteShot1.png ---
+
+
+[292
+
+]
+l.10 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekSiteShot/IkomekSi
+teShot2.xbb"' not found ---
+l.10 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/IKomekSiteShot/IkomekSiteShot2.xbb" (no BoundingBox) ---
+l. 10 --- needs --- IkomekSiteShot2.png ---
+
+
+[293]
+l.15 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekSiteShot/IkomekSi
+teShot3.xbb"' not found ---
+l.15 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/IKomekSiteShot/IkomekSiteShot3.xbb" (no BoundingBox) ---
+l. 15 --- needs --- IkomekSiteShot3.png ---
+)
+
+[294] (./Exhibits/CompanyInfo/IKomekPresentation/IKomekPresentation.tex
+
+[295]
+
+[296
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekPresentation/Ikome
+kPresentation.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/IKomekPresentation/IkomekPresentation.xbb" (no BoundingBox) ---
+l. 4 --- needs --- IkomekPresentation--.png ---
+
+
+[297
+
+]) (./Exhibits/CompanyInfo/IKomekPress/IKomekPress.tex
+
+[298
+
+]
+
+[299
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekPress/IKomekForbes
+1.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/IKomekPress/IKomekForbes1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- IKomekForbes1.png ---
+
+
+[300
+
+]
+l.10 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekPress/IKomekForbe
+s2.xbb"' not found ---
+l.10 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/IKomekPress/IKomekForbes2.xbb" (no BoundingBox) ---
+l. 10 --- needs --- IKomekForbes2.png ---
+
+
+[301]
+l.14 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekPress/IKomekForbe
+s3.xbb"' not found ---
+l.14 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/IKomekPress/IKomekForbes3.xbb" (no BoundingBox) ---
+l. 14 --- needs --- IKomekForbes3.png ---
+
+
+[302]
+l.19 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekPress/IKomekForbe
+s4.xbb"' not found ---
+l.19 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/IKomekPress/IKomekForbes4.xbb" (no BoundingBox) ---
+l. 19 --- needs --- IKomekForbes4.png ---
+
+
+[303]
+l.24 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekPress/IKomekPress
+.xbb"' not found ---
+l.24 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/IKomekPress/IKomekPress.xbb" (no BoundingBox) ---
+l. 24 --- needs --- IKomekPress.png ---
+)
+
+[304] (./Exhibits/CompanyInfo/IKomekSenate/IKomekSenate.tex
+
+[305]
+
+[306
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekSenate/IKomekSenat
+e1.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/IKomekSenate/IKomekSenate1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- IKomekSenate1.png ---
+
+
+[307
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/IKomekSenate/IKomekSenat
+e2.xbb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/IKomekSenate/IKomekSenate2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- IKomekSenate2.png ---
+)
+
+[308] (./Exhibits/CompanyInfo/STSSiteShot/STSSiteShot.tex
+
+[309]
+
+[310
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/STSSiteShot/STSSiteShot1
+.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/STSSiteShot/STSSiteShot1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- STSSiteShot1.png ---
+
+
+[311
+
+]
+l.10 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/STSSiteShot/STSSiteShot
+2.xbb"' not found ---
+l.10 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/STSSiteShot/STSSiteShot2.xbb" (no BoundingBox) ---
+l. 10 --- needs --- STSSiteShot2.png ---
+
+
+[312]
+l.15 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/STSSiteShot/STSSiteShot
+3.xbb"' not found ---
+l.15 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/STSSiteShot/STSSiteShot3.xbb" (no BoundingBox) ---
+l. 15 --- needs --- STSSiteShot3.png ---
+
+
+[313]
+l.20 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/STSSiteShot/STSSiteShot
+4.xbb"' not found ---
+l.20 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/STSSiteShot/STSSiteShot4.xbb" (no BoundingBox) ---
+l. 20 --- needs --- STSSiteShot4.png ---
+)
+
+[314] (./Exhibits/CompanyInfo/STSInstagramShot/STSInstagramShot.tex
+
+[315]
+
+[316
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/STSInstagramShot/STSInst
+agramShot.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/STSInstagramShot/STSInstagramShot.xbb" (no BoundingBox) ---
+l. 5 --- needs --- STSInstagramShot.png ---
+)
+
+[317
+
+] (./Exhibits/CompanyInfo/EQKSiteShot/EQKSiteShot.tex
+
+[318]
+
+[319
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/EQKSiteShot/EQKSiteShot1
+.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/EQKSiteShot/EQKSiteShot1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- EQKSiteShot1.png ---
+
+
+[320
+
+]
+l.10 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/EQKSiteShot/EQKSiteShot
+2.xbb"' not found ---
+l.10 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/EQKSiteShot/EQKSiteShot2.xbb" (no BoundingBox) ---
+l. 10 --- needs --- EQKSiteShot2.png ---
+
+
+[321]
+l.15 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/EQKSiteShot/EQKSiteShot
+3.xbb"' not found ---
+l.15 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/EQKSiteShot/EQKSiteShot3.xbb" (no BoundingBox) ---
+l. 15 --- needs --- EQKSiteShot3.png ---
+)
+
+[322] (./Exhibits/CompanyInfo/EQKInstagramShot/EQKInstagramShot.tex
+
+[323]
+
+[324
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/EQKInstagramShot/EQKInst
+agramShot.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/EQKInstagramShot/EQKInstagramShot.xbb" (no BoundingBox) ---
+l. 5 --- needs --- EQKInstagramShot.png ---
+)
+
+[325
+
+] (./Exhibits/CompanyInfo/AINSiteShot/AINSiteShot.tex
+
+[326]
+
+[327
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/AINSiteShot/AINSiteShot1
+.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/AINSiteShot/AINSiteShot1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- AINSiteShot1.png ---
+
+
+[328
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/AINSiteShot/AINSiteShot2
+.xbb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/AINSiteShot/AINSiteShot2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- AINSiteShot2.png ---
+
+
+[329]
+l.12 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/AINSiteShot/AINSiteShot
+3.xbb"' not found ---
+l.12 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/AINSiteShot/AINSiteShot3.xbb" (no BoundingBox) ---
+l. 12 --- needs --- AINSiteShot3.png ---
+
+
+[330]
+l.15 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/AINSiteShot/AINSiteShot
+4.xbb"' not found ---
+l.15 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/AINSiteShot/AINSiteShot4.xbb" (no BoundingBox) ---
+l. 15 --- needs --- AINSiteShot4.png ---
+)
+
+[331] (./Exhibits/CompanyInfo/AINInstagramShot/AINInstagramShot.tex
+
+[332]
+
+[333
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/AINInstagramShot/AINInst
+agramShot.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/AINInstagramShot/AINInstagramShot.xbb" (no BoundingBox) ---
+l. 5 --- needs --- AINInstagramShot.png ---
+)
+
+[334
+
+] (./Exhibits/CompanyInfo/KasperskyBBC/KasperskyBBC.tex
+
+[335]
+
+[336
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/KasperskyBBC/KasperskyBB
+C1.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/KasperskyBBC/KasperskyBBC1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- KasperskyBBC1.png ---
+
+
+[337
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/KasperskyBBC/KasperskyBB
+C2.xbb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/KasperskyBBC/KasperskyBBC2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- KasperskyBBC2.png ---
+)
+
+[338] (./Exhibits/CompanyInfo/KasperskyAVTest2024/KasperskyAVTest2024.tex
+
+[339]
+
+[340
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/KasperskyAVTest2024/Kasp
+erskyAVTest20241.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/KasperskyAVTest2024/KasperskyAVTest20241.xbb" (no BoundingBox) ---
+l. 5 --- needs --- KasperskyAVTest20241.png ---
+
+
+[341
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/KasperskyAVTest2024/Kasp
+erskyAVTest20242.xbb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/KasperskyAVTest2024/KasperskyAVTest20242.xbb" (no BoundingBox) ---
+l. 9 --- needs --- KasperskyAVTest20242.png ---
+
+
+[342]
+l.13 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/KasperskyAVTest2024/Kas
+perskyAVTest20243.xbb"' not found ---
+l.13 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compa
+nyInfo/KasperskyAVTest2024/KasperskyAVTest20243.xbb" (no BoundingBox) ---
+l. 13 --- needs --- KasperskyAVTest20243.png ---
+)
+
+[343] (./Exhibits/CompanyInfo/KasperskyAVComparatives/KasperskyAVComparatives.t
+ex
+
+[344]
+
+[345
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/CompanyInfo/KasperskyAVComparatives/
+KasperskyAVComparatives.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Compan
+yInfo/KasperskyAVComparatives/KasperskyAVComparatives.xbb" (no BoundingBox) ---
+
+l. 5 --- needs --- KasperskyAVComparatives.png ---
+)
+
+[346
+
+]) (./Exhibits/Contributions/Contributions.tex (./Exhibits/Contributions/STSCon
+tribution/STSContribution.tex
+
+[347]
+
+[348
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/STSContribution/STSCon
+tribution.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/STSContribution/STSContribution.xbb" (no BoundingBox) ---
+l. 4 --- needs --- STSContribution--.png ---
+
+
+[349
+
+]) (./Exhibits/Contributions/TokayevLetter/TokayevLetter.tex
+
+[350
+
+]
+
+[351
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/TokayevLetter/TokayevL
+etter.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/TokayevLetter/TokayevLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- TokayevLetter--.png ---
+
+
+[352
+
+]) (./Exhibits/Contributions/TokayevCV/TokayevCV.tex
+
+[353
+
+]
+
+[354
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/TokayevCV/TokayevCV.xb
+b"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/TokayevCV/TokayevCV.xbb" (no BoundingBox) ---
+l. 4 --- needs --- TokayevCV--.png ---
+
+
+[355
+
+]) (./Exhibits/Contributions/KaharLetter/KaharLetter.tex
+
+[356
+
+]
+
+[357
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/KaharLetter/KaharLette
+r.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/KaharLetter/KaharLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KaharLetter--.png ---
+
+
+[358
+
+]) (./Exhibits/Contributions/KaharCV/KaharCV.tex
+
+[359
+
+]
+
+[360
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/KaharCV/KaharCV.xbb"' 
+not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/KaharCV/KaharCV.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KaharCV--.png ---
+
+
+[361
+
+]) (./Exhibits/Contributions/PanchenkoLetter/PanchenkoLetter.tex
+
+[362
+
+]
+
+[363
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/PanchenkoLetter/Panche
+nkoLetter.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/PanchenkoLetter/PanchenkoLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- PanchenkoLetter--.png ---
+
+
+[364
+
+]) (./Exhibits/Contributions/KenshimovLetter/KenshimovLetter.tex
+
+[365
+
+]
+
+[366
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/KenshimovLetter/Kenshi
+movLetter.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/KenshimovLetter/KenshimovLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KenshimovLetter--.png ---
+
+
+[367
+
+]) (./Exhibits/Contributions/KenshimovCV/KenshimovCV.tex
+
+[368
+
+]
+
+[369
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/KenshimovCV/KenshimovC
+V.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/KenshimovCV/KenshimovCV.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KenshimovCV--.png ---
+
+
+[370
+
+]) (./Exhibits/Contributions/BaikenLetter/BaikenLetter.tex
+
+[371
+
+]
+
+[372
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/BaikenLetter/BaikenLet
+ter.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/BaikenLetter/BaikenLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- BaikenLetter--.png ---
+
+
+[373
+
+]) (./Exhibits/Contributions/BaikenCV/BaikenCV.tex
+
+[374
+
+]
+
+[375
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/BaikenCV/BaikenCV.xbb"
+' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/BaikenCV/BaikenCV.xbb" (no BoundingBox) ---
+l. 4 --- needs --- BaikenCV--.png ---
+
+
+[376
+
+]) (./Exhibits/Contributions/BeisenbaevLetter/BeisenbaevLetter.tex
+
+[377
+
+]
+
+[378
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/BeisenbaevLetter/Beise
+nbaevLetter.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/BeisenbaevLetter/BeisenbaevLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- BeisenbaevLetter--.png ---
+
+
+[379
+
+]) (./Exhibits/Contributions/BeisenbayevCV/BeisenbayevCV.tex
+
+[380
+
+]
+
+[381
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/BeisenbayevCV/Beisenba
+yevCV.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/BeisenbayevCV/BeisenbayevCV.xbb" (no BoundingBox) ---
+l. 4 --- needs --- BeisenbayevCV--.png ---
+
+
+[382
+
+]) (./Exhibits/Contributions/KudaiBergenovLetter/KudaibergenovLetter.tex
+
+[383
+
+]
+
+[384
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/KudaiBergenovLetter/Ku
+daibergenovLetter.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/KudaiBergenovLetter/KudaibergenovLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KudaibergenovLetter--.png ---
+
+
+[385
+
+]) (./Exhibits/Contributions/KudaiBergenovCV/KudaibergenovCV.tex
+
+[386
+
+]
+
+[387
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/KudaiBergenovCV/Kudaib
+ergenovCV.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/KudaiBergenovCV/KudaibergenovCV.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KudaibergenovCV--.png ---
+
+
+[388
+
+]) (./Exhibits/Contributions/SidelkovskayaLetter/SidelkovskayaLetter.tex
+
+[389
+
+]
+
+[390
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/SidelkovskayaLetter/Si
+delkovskayaLetter.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/SidelkovskayaLetter/SidelkovskayaLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- SidelkovskayaLetter--.png ---
+
+
+[391
+
+]) (./Exhibits/Contributions/SidelkovskayaCV/SidelkovskayaCV.tex
+
+[392
+
+]
+
+[393
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/SidelkovskayaCV/Sidelk
+ovskayaCV.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/SidelkovskayaCV/SidelkovskayaCV.xbb" (no BoundingBox) ---
+l. 4 --- needs --- SidelkovskayaCV--.png ---
+
+
+[394
+
+]) (./Exhibits/Contributions/YesmagambetovLetter/YesmagambetovLetter.tex
+
+[395
+
+]
+
+[396
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/YesmagambetovLetter/Ye
+smagambetovLetter.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/YesmagambetovLetter/YesmagambetovLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- YesmagambetovLetter--.png ---
+
+
+[397
+
+]) (./Exhibits/Contributions/YesmagambetovCV/YesmagambetovCV.tex
+
+[398
+
+]
+
+[399
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/YesmagambetovCV/Yesmag
+ambetovCV.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/YesmagambetovCV/YesmagambetovCV.xbb" (no BoundingBox) ---
+l. 4 --- needs --- YesmagambetovCV--.png ---
+
+
+[400
+
+]) (./Exhibits/Contributions/SanatovLetter/SanatovLetter.tex
+
+[401
+
+]
+
+[402
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Contributions/SanatovLetter/SanatovL
+etter.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/SanatovLetter/SanatovLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- SanatovLetter--.png ---
+
+
+[403
+
+]) (./Exhibits/Contributions/SanatovCV/SanatovCV.tex
+
+[404
+
+]
+
+[405
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.5 --- TeX4ht warning --- File `"Exhibits/Contributions/SanatovCV/SanatovCV2.x
+bb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/SanatovCV/SanatovCV2.xbb" (no BoundingBox) ---
+l. 5 --- needs --- SanatovCV2--.png ---
+
+
+[406
+
+]) (./Exhibits/Contributions/KasperskyThanks2022Ex/KasperskyThanks2022Ex.tex
+
+[407
+
+]
+
+[408
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.5 --- TeX4ht warning --- File `"Exhibits/Contributions/KasperskyThanks2022Ex/
+KasperskyThanks2022.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Contri
+butions/KasperskyThanks2022Ex/KasperskyThanks2022.xbb" (no BoundingBox) ---
+l. 5 --- needs --- KasperskyThanks2022--.png ---
+
+
+[409
+
+])) (./Exhibits/Articles/Articles.tex (./Exhibits/Articles/VAKList/VAKList.tex
+
+[410
+
+]
+
+[411
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Articles/VAKList/VAKList.xbb"' not f
+ound ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/VAKList/VAKList.xbb" (no BoundingBox) ---
+l. 4 --- needs --- VAKList--.png ---
+
+
+[412
+
+]) (./Exhibits/Articles/HeraldTU/HeraldTU.tex
+
+[413
+
+]
+
+[414
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Articles/HeraldTU/HeraldTU.xbb"' not
+ found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/HeraldTU/HeraldTU.xbb" (no BoundingBox) ---
+l. 4 --- needs --- HeraldTU--.png ---
+
+
+[415
+
+]) (./Exhibits/Articles/HeraldTUSite/HeraldTUSite.tex
+
+[416
+
+]
+
+[417
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Articles/HeraldTUSite/HeraldTUSite.x
+bb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/HeraldTUSite/HeraldTUSite.xbb" (no BoundingBox) ---
+l. 5 --- needs --- HeraldTUSite.png ---
+
+
+[418
+
+]
+l.10 --- TeX4ht warning --- File `"Exhibits/Articles/HeraldTUSite/HeraldTUSite2
+.xbb"' not found ---
+l.10 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Artic
+les/HeraldTUSite/HeraldTUSite2.xbb" (no BoundingBox) ---
+l. 10 --- needs --- HeraldTUSite2.png ---
+)
+
+[419] (./Exhibits/Articles/ComponentsScientific/ComponentsScientific.tex
+
+[420]
+
+[421
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Articles/ComponentsScientific/Compon
+entsScientific.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/ComponentsScientific/ComponentsScientific.xbb" (no BoundingBox) ---
+l. 4 --- needs --- ComponentsScientific--.png ---
+
+
+[422
+
+]) (./Exhibits/Articles/ComponentsScientificSite/ComponentsScientificSite.tex
+
+[423
+
+]
+
+[424
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Articles/ComponentsScientificSite/Co
+mponentsScientificSite.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/ComponentsScientificSite/ComponentsScientificSite.xbb" (no BoundingBox) ---
+l. 5 --- needs --- ComponentsScientificSite.png ---
+)
+
+[425
+
+] (./Exhibits/Articles/VestnikDona/VestnikDona.tex
+
+[426]
+
+[427
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Articles/VestnikDona/VestnikDona.xbb
+"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/VestnikDona/VestnikDona.xbb" (no BoundingBox) ---
+l. 4 --- needs --- VestnikDona--.png ---
+
+
+[428
+
+]) (./Exhibits/Articles/VestnikDonaSite/VestnikDonaSite.tex
+
+[429
+
+]
+
+[430
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Articles/VestnikDonaSite/VestnikDona
+Site.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/VestnikDonaSite/VestnikDonaSite.xbb" (no BoundingBox) ---
+l. 5 --- needs --- VestnikDonaSite.png ---
+
+
+[431
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Articles/VestnikDonaSite/VestnikDona
+Site1.xbb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/VestnikDonaSite/VestnikDonaSite1.xbb" (no BoundingBox) ---
+l. 9 --- needs --- VestnikDonaSite1.png ---
+
+
+[432]
+l.13 --- TeX4ht warning --- File `"Exhibits/Articles/VestnikDonaSite/VestnikDon
+aSite2.xbb"' not found ---
+l.13 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Artic
+les/VestnikDonaSite/VestnikDonaSite2.xbb" (no BoundingBox) ---
+l. 13 --- needs --- VestnikDonaSite2.png ---
+)
+
+[433] (./Exhibits/Articles/InnovationInvestment/InnovationInvestment.tex
+
+[434]
+
+[435
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Articles/InnovationInvestment/Innova
+tionInvestment.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/InnovationInvestment/InnovationInvestment.xbb" (no BoundingBox) ---
+l. 4 --- needs --- InnovationInvestment--.png ---
+
+
+[436
+
+]) (./Exhibits/Articles/InnovationInvestmentSite/InnovationInvestmentSite.tex
+
+[437
+
+]
+
+[438
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Articles/InnovationInvestmentSite/In
+novationInvestment.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/InnovationInvestmentSite/InnovationInvestment.xbb" (no BoundingBox) ---
+l. 5 --- needs --- InnovationInvestment.png ---
+
+
+[439
+
+]
+l.10 --- TeX4ht warning --- File `"Exhibits/Articles/InnovationInvestmentSite/I
+nnovationInvestmentSite2.xbb"' not found ---
+l.10 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Artic
+les/InnovationInvestmentSite/InnovationInvestmentSite2.xbb" (no BoundingBox) --
+-
+l. 10 --- needs --- InnovationInvestmentSite2.png ---
+
+
+[440]
+l.15 --- TeX4ht warning --- File `"Exhibits/Articles/InnovationInvestmentSite/I
+nnovationInvestmentSite3.xbb"' not found ---
+l.15 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Artic
+les/InnovationInvestmentSite/InnovationInvestmentSite3.xbb" (no BoundingBox) --
+-
+l. 15 --- needs --- InnovationInvestmentSite3.png ---
+)
+
+[441] (./Exhibits/Articles/ScienceBusiness/ScienceBusiness.tex
+
+[442]
+
+[443
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Articles/ScienceBusiness/ScienceBusi
+ness.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/ScienceBusiness/ScienceBusiness.xbb" (no BoundingBox) ---
+l. 4 --- needs --- ScienceBusiness--.png ---
+
+
+[444
+
+]) (./Exhibits/Articles/ScienceBusinessSite/ScienceBusinessSite.tex
+
+[445
+
+]
+
+[446
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Articles/ScienceBusinessSite/Science
+BusinessSite1.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/ScienceBusinessSite/ScienceBusinessSite1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- ScienceBusinessSite1.png ---
+
+
+[447
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Articles/ScienceBusinessSite/Science
+BusinessSite2.xbb"' not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/ScienceBusinessSite/ScienceBusinessSite2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- ScienceBusinessSite2.png ---
+)
+
+[448] (./Exhibits/Articles/HeraldOfCIT/HeraldOfCIT.tex
+
+[449]
+
+[450
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Articles/HeraldOfCIT/HeraldOfCIT.xbb
+"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/HeraldOfCIT/HeraldOfCIT.xbb" (no BoundingBox) ---
+l. 4 --- needs --- HeraldOfCIT--.png ---
+
+
+[451
+
+]) (./Exhibits/Articles/HeraldOfCITSite/HeraldOfCITSite.tex
+
+[452
+
+]
+
+[453
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Articles/HeraldOfCITSite/HeraldOfCIT
+Site.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/HeraldOfCITSite/HeraldOfCITSite.xbb" (no BoundingBox) ---
+l. 5 --- needs --- HeraldOfCITSite.png ---
+
+
+[454
+
+]
+l.10 --- TeX4ht warning --- File `"Exhibits/Articles/HeraldOfCITSite/HeraldOfCI
+TSite1.xbb"' not found ---
+l.10 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Artic
+les/HeraldOfCITSite/HeraldOfCITSite1.xbb" (no BoundingBox) ---
+l. 10 --- needs --- HeraldOfCITSite1.png ---
+)
+
+[455] (./Exhibits/Articles/AutomationModern/AutomationModern.tex
+
+[456]
+
+[457
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Articles/AutomationModern/Automation
+Modern.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Articl
+es/AutomationModern/AutomationModern.xbb" (no BoundingBox) ---
+l. 4 --- needs --- AutomationModern--.png ---
+
+
+[458
+
+]) (./Exhibits/Articles/AutomationModernSite/AutomationModernSite.tex)) (./Exhi
+bits/Role/Role.tex (./Exhibits/Role/IKomekDeputyAkimLetter/IKomekDeputyAkimLett
+er.tex
+
+[459
+
+]
+
+[460
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Role/IKomekDeputyAkimLetter/IKomekDe
+putyAkimLetter.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Role/I
+KomekDeputyAkimLetter/IKomekDeputyAkimLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- IKomekDeputyAkimLetter--.png ---
+
+
+[461
+
+]) (./Exhibits/Role/IKomekPresentationScript/IKomekPresentationScript.tex
+
+[462
+
+]
+
+[463
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Role/IKomekPresentationScript/Ikomek
+PresentationScript.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Role/I
+KomekPresentationScript/IkomekPresentationScript.xbb" (no BoundingBox) ---
+l. 4 --- needs --- IkomekPresentationScript--.png ---
+
+
+[464
+
+]) (./Exhibits/Role/STSRoleLetter/STSRoleLetter.tex
+
+[465
+
+]
+
+[466
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Role/STSRoleLetter/STSRoleLetter.xbb
+"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Role/S
+TSRoleLetter/STSRoleLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- STSRoleLetter--.png ---
+
+
+[467
+
+]) (./Exhibits/Role/EQKRoleLetter/EQKRoleLetter.tex
+
+[468
+
+]
+
+[469
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Role/EQKRoleLetter/EQKRoleLetter.xbb
+"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Role/E
+QKRoleLetter/EQKRoleLetter.xbb" (no BoundingBox) ---
+l. 4 --- needs --- EQKRoleLetter--.png ---
+
+
+[470
+
+]) (./Exhibits/Role/AINRoleLetter/AINRoleLetter.tex
+
+[471
+
+]
+
+[472
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Role/AINRoleLetter/AINRoleLetterpdf.
+xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Role/A
+INRoleLetter/AINRoleLetterpdf.xbb" (no BoundingBox) ---
+l. 4 --- needs --- AINRoleLetterpdf--.png ---
+
+
+[473
+
+])) (./Exhibits/Display/Display.tex (./Exhibits/Display/program1/program1.tex
+
+[474
+
+]
+
+[475
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/program1/program1.xbb"' not 
+found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/program1/program1.xbb" (no BoundingBox) ---
+l. 4 --- needs --- program1--.png ---
+
+
+[476
+
+]) (./Exhibits/Display/certificate1/certificate1.tex
+
+[477
+
+]
+
+[478
+
+]
+
+! LaTeX Error: File `certificate1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \includegraphics[width=38em]{certificate1}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[479
+
+] (./Exhibits/Display/collection1/collection1.tex
+
+[480]
+
+[481
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/collection1/collection1.xbb"
+' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/collection1/collection1.xbb" (no BoundingBox) ---
+l. 4 --- needs --- collection1--.png ---
+
+
+[482
+
+]) (./Exhibits/Display/diploma1/diploma1.tex
+
+[483
+
+]
+
+[484
+
+]
+
+! LaTeX Error: File `diploma1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \includegraphics[width=38em]{diploma1}
+                                              
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[485
+
+] (./Exhibits/Display/certificate2/certificate2.tex
+
+[486]
+
+[487
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/certificate2/certificate2.xb
+b"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/certificate2/certificate2.xbb" (no BoundingBox) ---
+l. 4 --- needs --- certificate2--.png ---
+
+
+[488
+
+]) (./Exhibits/Display/collection2/collection2.tex
+
+[489
+
+]
+
+[490
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/collection2/collection2.xbb"
+' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/collection2/collection2.xbb" (no BoundingBox) ---
+l. 4 --- needs --- collection2--.png ---
+
+
+[491
+
+]) (./Exhibits/Display/diploma2/diploma2.tex
+
+[492
+
+]
+
+[493
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/diploma2/diploma2.xbb"' not 
+found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/diploma2/diploma2.xbb" (no BoundingBox) ---
+l. 4 --- needs --- diploma2--.png ---
+
+
+[494
+
+]) (./Exhibits/Display/certificate3/certificate3.tex
+
+[495
+
+]
+
+[496
+
+]
+
+! LaTeX Error: File `certificate3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \includegraphics[width=38em]{certificate3}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[497
+
+] (./Exhibits/Display/collection3/collection3.tex
+
+[498]
+
+[499
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/collection3/collection3.xbb"
+' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/collection3/collection3.xbb" (no BoundingBox) ---
+l. 4 --- needs --- collection3--.png ---
+
+
+[500
+
+]) (./Exhibits/Display/diploma3/diploma3.tex
+
+[501
+
+]
+
+[502
+
+]
+
+! LaTeX Error: File `diploma3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \includegraphics[width=38em]{diploma3}
+                                              
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[503
+
+] (./Exhibits/Display/certificate4/certificate4.tex
+
+[504]
+
+[505
+
+]
+
+! LaTeX Error: File `certificate4' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \includegraphics[width=38em]{certificate4}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.jpg,.eps,.pdf,.svg
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+[506
+
+] (./Exhibits/Display/collection4/collection4.tex
+
+[507]
+
+[508
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/collection4/collection4.xbb"
+' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/collection4/collection4.xbb" (no BoundingBox) ---
+l. 4 --- needs --- collection4--.png ---
+
+
+[509
+
+]) (./Exhibits/Display/certificate5/certificate5.tex
+
+[510
+
+]
+
+[511
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Display/certificate5/certificate5.xb
+b"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/certificate5/certificate5.xbb" (no BoundingBox) ---
+l. 5 --- needs --- certificate5-.png ---
+)
+
+[512
+
+] (./Exhibits/Display/collection5/collection5.tex
+
+[513]
+
+[514
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/collection5/collection5.xbb"
+' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/collection5/collection5.xbb" (no BoundingBox) ---
+l. 4 --- needs --- collection5--.png ---
+
+
+[515
+
+]) (./Exhibits/Display/diploma5/diploma5.tex
+
+[516
+
+]
+
+[517
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/diploma5/diploma5.xbb"' not 
+found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/diploma5/diploma5.xbb" (no BoundingBox) ---
+l. 4 --- needs --- diploma5--.png ---
+
+
+[518
+
+]) (./Exhibits/Display/ProfitEducationDay2023/ProfitEducationDay2023.tex
+
+[519
+
+]
+
+[520
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/ProfitEducationDay2023/Profi
+tEducationDay2023.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/ProfitEducationDay2023/ProfitEducationDay2023.xbb" (no BoundingBox) ---
+l. 4 --- needs --- ProfitEducationDay2023--.png ---
+) (./Exhibits/Display/SmartSityDay2023/SmartSityDay2023.tex
+
+[521
+
+]
+
+[522
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/SmartSityDay2023/SmartSityDa
+y2023.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/SmartSityDay2023/SmartSityDay2023.xbb" (no BoundingBox) ---
+l. 4 --- needs --- SmartSityDay2023--.png ---
+) (./Exhibits/Display/ProfitSmartCityDay2024/ProfitSmartCityDay2024.tex
+
+[523
+
+]
+
+[524
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Display/ProfitSmartCityDay2024/1.xbb
+"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/ProfitSmartCityDay2024/1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- 1.png ---
+
+
+[525
+
+]
+l.10 --- TeX4ht warning --- File `"Exhibits/Display/ProfitSmartCityDay2024/2.xb
+b"' not found ---
+l.10 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displ
+ay/ProfitSmartCityDay2024/2.xbb" (no BoundingBox) ---
+l. 10 --- needs --- 2.png ---
+
+
+[526]
+l.14 --- TeX4ht warning --- File `"Exhibits/Display/ProfitSmartCityDay2024/3.xb
+b"' not found ---
+l.14 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displ
+ay/ProfitSmartCityDay2024/3.xbb" (no BoundingBox) ---
+l. 14 --- needs --- 3.png ---
+
+
+[527]
+l.19 --- TeX4ht warning --- File `"Exhibits/Display/ProfitSmartCityDay2024/4.xb
+b"' not found ---
+l.19 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displ
+ay/ProfitSmartCityDay2024/4.xbb" (no BoundingBox) ---
+l. 19 --- needs --- 4.png ---
+
+
+[528]
+l.23 --- TeX4ht warning --- File `"Exhibits/Display/ProfitSmartCityDay2024/5.xb
+b"' not found ---
+l.23 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displ
+ay/ProfitSmartCityDay2024/5.xbb" (no BoundingBox) ---
+l. 23 --- needs --- 5.png ---
+
+
+[529]
+l.28 --- TeX4ht warning --- File `"Exhibits/Display/ProfitSmartCityDay2024/6.xb
+b"' not found ---
+l.28 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displ
+ay/ProfitSmartCityDay2024/6.xbb" (no BoundingBox) ---
+l. 28 --- needs --- 6.png ---
+
+
+[530]
+l.32 --- TeX4ht warning --- File `"Exhibits/Display/ProfitSmartCityDay2024/7.xb
+b"' not found ---
+l.32 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displ
+ay/ProfitSmartCityDay2024/7.xbb" (no BoundingBox) ---
+l. 32 --- needs --- 7.png ---
+
+
+[531]
+l.37 --- TeX4ht warning --- File `"Exhibits/Display/ProfitSmartCityDay2024/8.xb
+b"' not found ---
+l.37 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displ
+ay/ProfitSmartCityDay2024/8.xbb" (no BoundingBox) ---
+l. 37 --- needs --- 8.png ---
+)
+
+[532] (./Exhibits/Display/GoogleDevFest/GoogleDevFest.tex
+
+[533]
+
+[534
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Display/GoogleDevFest/GoogleDevFest.
+xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Displa
+y/GoogleDevFest/GoogleDevFest.xbb" (no BoundingBox) ---
+l. 4 --- needs --- GoogleDevFest--.png ---
+)
+
+[535
+
+]) (./Exhibits/Salary/Salary.tex (./Exhibits/Salary/HRPRITPM1/HRPRITPM1.tex
+
+[536]
+
+[537
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Salary/HRPRITPM1/../HRPRITPM1.xbb"' 
+not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salary
+/HRPRITPM1/../HRPRITPM1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- HRPRITPM1.jpeg ---
+
+
+[538
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Salary/HRPRITPM1/../HRPRITPM2.xbb"' 
+not found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salary
+/HRPRITPM1/../HRPRITPM2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- HRPRITPM2.jpeg ---
+
+
+[539]
+l.14 --- TeX4ht warning --- File `"Exhibits/Salary/HRPRITPM1/../HRPRITPM3.xbb"'
+ not found ---
+l.14 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salar
+y/HRPRITPM1/../HRPRITPM3.xbb" (no BoundingBox) ---
+l. 14 --- needs --- HRPRITPM3.jpeg ---
+)
+
+[540] (./Exhibits/Salary/HRPR1/HRPR1.tex
+
+[541]
+
+[542
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Salary/HRPR1/../HRPR1.xbb"' not foun
+d ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salary
+/HRPR1/../HRPR1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- HRPR1.jpeg ---
+
+
+[543
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Salary/HRPR1/../HRPR2.xbb"' not foun
+d ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salary
+/HRPR1/../HRPR2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- HRPR2.jpeg ---
+
+
+[544]
+l.13 --- TeX4ht warning --- File `"Exhibits/Salary/HRPR1/../HRPR3.xbb"' not fou
+nd ---
+l.13 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salar
+y/HRPR1/../HRPR3.xbb" (no BoundingBox) ---
+l. 13 --- needs --- HRPR3.jpeg ---
+)
+
+[545] (./Exhibits/Salary/HH1/HH1.tex
+
+[546]
+
+[547
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Salary/HH1/../HH1.xbb"' not found --
+-
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salary
+/HH1/../HH1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- HH1.jpeg ---
+
+
+[548
+
+]) (./Exhibits/Salary/HH2/HH2.tex
+
+[549]
+
+[550
+
+]
+l.6 --- TeX4ht warning --- File `"Exhibits/Salary/HH2/../HH2.xbb"' not found --
+-
+l.6 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salary
+/HH2/../HH2.xbb" (no BoundingBox) ---
+l. 6 --- needs --- HH2.jpeg ---
+)
+
+[551
+
+] (./Exhibits/Salary/RecCom1/RecCom1.tex
+
+[552]
+
+[553
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Salary/RecCom1/../RecCom1.xbb"' not 
+found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salary
+/RecCom1/../RecCom1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- RecCom1.jpeg ---
+
+
+[554
+
+]
+l.9 --- TeX4ht warning --- File `"Exhibits/Salary/RecCom1/../RecCom2.xbb"' not 
+found ---
+l.9 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salary
+/RecCom1/../RecCom2.xbb" (no BoundingBox) ---
+l. 9 --- needs --- RecCom2.jpeg ---
+)
+
+[555] (./Exhibits/Salary/BNSAstanaICTPM2024Letter/BNSAstanaICTPM2024Letter.tex
+
+[556]
+
+[557
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Salary/BNSAstanaICTPM2024Letter/../N
+ationalBeuro1.xbb"' not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salary
+/BNSAstanaICTPM2024Letter/../NationalBeuro1.xbb" (no BoundingBox) ---
+l. 5 --- needs --- NationalBeuro1.jpeg ---
+
+
+[558
+
+]
+l.10 --- TeX4ht warning --- File `"Exhibits/Salary/BNSAstanaICTPM2024Letter/../
+NationalBeuro2.xbb"' not found ---
+l.10 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salar
+y/BNSAstanaICTPM2024Letter/../NationalBeuro2.xbb" (no BoundingBox) ---
+l. 10 --- needs --- NationalBeuro2.jpeg ---
+)
+
+[559] (./Exhibits/Salary/IKomekSalary/IKomekSalary.tex
+
+[560]
+
+[561
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Salary/IKomekSalary/../IKomekSalary.
+xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salary
+/IKomekSalary/../IKomekSalary.xbb" (no BoundingBox) ---
+l. 4 --- needs --- IKomekSalary--.png ---
+
+
+[562
+
+]) (./Exhibits/Salary/STSSalary/STSSalary.tex
+
+[563
+
+]
+
+[564
+
+]
+l.5 --- TeX4ht warning --- File `"Exhibits/Salary/STSSalary/../STSSalary.xbb"' 
+not found ---
+l.5 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Salary
+/STSSalary/../STSSalary.xbb" (no BoundingBox) ---
+l. 5 --- needs --- STSSalary.jpeg ---
+)
+
+[565
+
+]) (./Exhibits/Events/Events.tex (./Exhibits/Events/AzimutCisco/AzimutCisco.tex
+
+
+[566]
+
+[567
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/AzimutCisco/AzimutCisco.xbb"'
+ not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/AzimutCisco/AzimutCisco.xbb" (no BoundingBox) ---
+l. 4 --- needs --- AzimutCisco--.png ---
+) (./Exhibits/Events/DigitalAlmaty2023/DigitalAlmaty2023.tex
+
+[568
+
+]
+
+[569
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/DigitalAlmaty2023/DigitalAlma
+ty2023.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/DigitalAlmaty2023/DigitalAlmaty2023.xbb" (no BoundingBox) ---
+l. 4 --- needs --- DigitalAlmaty2023--.png ---
+) (./Exhibits/Events/DigitalAlmaty2024/DigitalAlmaty2024.tex
+
+[570
+
+]
+
+[571
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/DigitalAlmaty2024/DigitalAlma
+ty2024.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/DigitalAlmaty2024/DigitalAlmaty2024.xbb" (no BoundingBox) ---
+l. 4 --- needs --- DigitalAlmaty2024--.png ---
+) (./Exhibits/Events/Dynatrace/Dynatrace.tex
+
+[572
+
+]
+
+[573
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/Dynatrace/Dynatrace.xbb"' not
+ found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/Dynatrace/Dynatrace.xbb" (no BoundingBox) ---
+l. 4 --- needs --- Dynatrace--.png ---
+) (./Exhibits/Events/GITEXDubai/GITEXDubai.tex
+
+[574
+
+]
+
+[575
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/GITEXDubai/GITEXDubai.xbb"' n
+ot found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/GITEXDubai/GITEXDubai.xbb" (no BoundingBox) ---
+l. 4 --- needs --- GITEXDubai--.png ---
+) (./Exhibits/Events/KasperskySecurityDay2023/KasperskySecurityDay2023.tex
+
+[576
+
+]
+
+[577
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/KasperskySecurityDay2023/Kasp
+erskySecurityDay2023.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/KasperskySecurityDay2023/KasperskySecurityDay2023.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KasperskySecurityDay2023--.png ---
+) (./Exhibits/Events/KazHackStan/KazHackStan.tex
+
+[578
+
+]
+
+[579
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/KazHackStan/KazHackStan.xbb"'
+ not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/KazHackStan/KazHackStan.xbb" (no BoundingBox) ---
+l. 4 --- needs --- KazHackStan--.png ---
+) (./Exhibits/Events/MostHub/MostHub.tex
+
+[580
+
+]
+
+[581
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/MostHub/MostHub.xbb"' not fou
+nd ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/MostHub/MostHub.xbb" (no BoundingBox) ---
+l. 4 --- needs --- MostHub--.png ---
+) (./Exhibits/Events/OpenTextEurope/OpenTextEurope.tex
+
+[582
+
+]
+
+[583
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/OpenTextEurope/OpenTextEurope
+.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/OpenTextEurope/OpenTextEurope.xbb" (no BoundingBox) ---
+l. 4 --- needs --- OpenTextEurope--.png ---
+) (./Exhibits/Events/ProfitInfrustructureDay/ProfitInfrustructureDay.tex
+
+[584
+
+]
+
+[585
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/ProfitInfrustructureDay/Profi
+tInfrustructureDay.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/ProfitInfrustructureDay/ProfitInfrustructureDay.xbb" (no BoundingBox) ---
+l. 4 --- needs --- ProfitInfrustructureDay--.png ---
+) (./Exhibits/Events/Securex2024/Securex2024.tex
+
+[586
+
+]
+
+[587
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/Securex2024/Securex2024.xbb"'
+ not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/Securex2024/Securex2024.xbb" (no BoundingBox) ---
+l. 4 --- needs --- Securex2024--.png ---
+) (./Exhibits/Events/SecurexProgram/SecurexProgram.tex
+
+[588
+
+]
+
+[589
+
+]
+
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
+
+l.4 --- TeX4ht warning --- File `"Exhibits/Events/SecurexProgram/SecurexProgram
+.xbb"' not found ---
+l.4 --- TeX4ht warning --- Cannot determine size of graphic in "Exhibits/Events
+/SecurexProgram/SecurexProgram.xbb" (no BoundingBox) ---
+l. 4 --- needs --- SecurexProgram--.png ---
+)))
+
+[590
+
+]
+
+[591]
+\openout2 = `inkin.wrt'.
+
+(../out/latex_public_docx/build/inkin.aux)
+\openout2 = `inkin.Awards'.
+
+(../out/latex_public_docx/build/inkin.wrt)
+\openout2 = `inkin.Associations'.
+
+(../out/latex_public_docx/build/inkin.wrt)
+\openout2 = `inkin.Published'.
+
+(../out/latex_public_docx/build/inkin.wrt)
+\openout2 = `inkin.Judging'.
+
+(../out/latex_public_docx/build/inkin.wrt)
+\openout2 = `inkin.CompanyInfo'.
+
+(../out/latex_public_docx/build/inkin.wrt)
+\openout2 = `inkin.Contributions'.
+
+(../out/latex_public_docx/build/inkin.wrt)
+\openout2 = `inkin.Articles'.
+
+(../out/latex_public_docx/build/inkin.wrt)
+\openout2 = `inkin.Role'.
+
+(../out/latex_public_docx/build/inkin.wrt)
+\openout2 = `inkin.Display'.
+
+(../out/latex_public_docx/build/inkin.wrt)
+\openout2 = `inkin.Salary'.
+
+(../out/latex_public_docx/build/inkin.wrt)
+\openout2 = `inkin.Events'.
+
+(../out/latex_public_docx/build/inkin.wrt)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 24129 strings out of 473191
+ 491744 string characters out of 5715826
+ 937676 words of memory out of 5000000
+ 45319 multiletter control sequences out of 15000+600000
+ 571422 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 104i,10n,116p,3295b,932s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on ../out/latex_public_docx/build/inkin.dvi (591 pages, 992876 b
+ytes).
